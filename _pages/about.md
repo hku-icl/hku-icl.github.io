@@ -83,7 +83,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
     <td style="padding: 12px 20px; text-align: center; background-color: #f6f8fa; border-left: 1px solid #d1d5da;">  <!-- 修改这里 -->
       <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
         <div style="width: 80px; height: 80px; background: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-bottom: 8px; border: 1px solid #e1e4e8;">  <!-- 缩小图片容器 -->
-          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/HKUicon.png" alt="HKU Logo" style="max-width: 100px;">  <!-- 调整图片大小 -->
+          <img src="/images/HKUicon.png" alt="HKU Logo" style="max-width: 100px;">  <!-- 调整图片大小 -->
         </div>
       </div>
     </td>
