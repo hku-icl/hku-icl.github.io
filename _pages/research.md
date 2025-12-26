@@ -453,7 +453,7 @@ author_profile: true
         
         <div class="media-grid">
           <div class="media-item">
-            <img src="/images/research/B7.png" alt="Research Image B7">
+            <img src="/images/research/B7.jpg" alt="Research Image B7">
             <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
           
