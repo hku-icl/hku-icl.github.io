@@ -309,11 +309,10 @@ author_profile: true
       </div>
       
       <div class="tech-tags">
+        <span class="tech-tag">Agent Communication</span>
         <span class="tech-tag">Distributed AI</span>
+        <span class="tech-tag">AI Infrastructure</span>
         <span class="tech-tag">Robotic Swarms</span>
-        <span class="tech-tag">Brain-Computer Interfaces</span>
-        <span class="tech-tag">Planet-scale Sensing</span>
-        <span class="tech-tag">Next-gen Architectures</span>
       </div>
       
       <div class="media-section">
