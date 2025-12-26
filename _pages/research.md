@@ -5,44 +5,42 @@ author_profile: true
 ---
 
 <style>
-  .research-hero {
-    background: linear-gradient(135deg, #1a237e 0%, #283593 50%, #3949ab 100%);
-    color: white;
-    padding: 4rem 2rem;
-    margin-bottom: 3rem;
-    border-radius: 0 0 20px 20px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-  }
-  
-  .research-hero-content {
-    max-width: 1200px;
-    margin: 0 auto;
+  .research-intro {
+    max-width: 1000px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
     position: relative;
   }
   
-  .hero-title {
-    font-size: 3.5rem;
-    font-weight: 800;
-    margin-bottom: 1rem;
-    line-height: 1.2;
-    background: linear-gradient(90deg, #ffffff 0%, #bbdefb 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+  .intro-quote {
+    position: absolute;
+    top: -15px;
+    left: 40px;
+    font-size: 5rem;
+    color: #3949ab;
+    opacity: 0.2;
+    font-family: Georgia, serif;
+    line-height: 1;
   }
   
-  .hero-subtitle {
-    font-size: 1.8rem;
-    font-weight: 300;
-    opacity: 0.9;
-    margin-bottom: 2rem;
-  }
-  
-  .hero-text {
-    font-size: 1.2rem;
+  .research-intro p {
+    color: #2c3e50;
+    font-size: 1.1rem;
     line-height: 1.8;
-    max-width: 800px;
-    margin-bottom: 0;
+    margin: 0 0 1.5rem 0;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .research-intro p:first-of-type {
+    margin-top: 2rem;
+  }
+  
+  .research-intro p:last-of-type {
+    margin-bottom: 1rem;
   }
   
   .research-agenda-title {
@@ -74,16 +72,16 @@ author_profile: true
   
   .research-card {
     background: white;
-    border-radius: 20px;
+    border-radius: 16px;
     overflow: hidden;
-    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     border: 1px solid #e8eaf6;
   }
   
   .research-card:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 25px 50px rgba(0,0,0,0.15);
+    transform: translateY(-5px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.12);
   }
   
   .card-header {
@@ -134,34 +132,68 @@ author_profile: true
   }
   
   .research-description.english {
-    border-left: 4px solid #3949ab;
-    padding-left: 1rem;
+    border-left: 3px solid #3949ab;
+    padding-left: 1.2rem;
     margin-bottom: 2rem;
   }
   
   .research-description.chinese {
-    border-left: 4px solid #ff4081;
-    padding-left: 1rem;
+    border-left: 3px solid #ff4081;
+    padding-left: 1.2rem;
     font-style: italic;
     color: #555;
+    background: #f9f9f9;
+    padding: 1.2rem;
+    border-radius: 0 8px 8px 0;
+  }
+  
+  .tech-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin: 2rem 0;
+  }
+  
+  .tech-tag {
+    background: #e8eaf6;
+    color: #3949ab;
+    padding: 0.4rem 1.2rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+  }
+  
+  .tech-tag:hover {
+    background: #3949ab;
+    color: white;
+    transform: translateY(-2px);
+  }
+  
+  .media-section {
+    margin-top: 2.5rem;
+    padding-top: 2rem;
+    border-top: 1px solid #eee;
   }
   
   .media-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
-    margin-top: 2rem;
+    margin-top: 1rem;
   }
   
   .media-item {
-    border-radius: 12px;
+    border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.08);
     transition: transform 0.3s ease;
+    background: white;
   }
   
   .media-item:hover {
-    transform: scale(1.05);
+    transform: scale(1.03);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.15);
   }
   
   .media-item.video {
@@ -171,7 +203,31 @@ author_profile: true
     align-items: center;
     justify-content: center;
     color: white;
-    font-size: 3rem;
+    position: relative;
+  }
+  
+  .video-play-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 64, 129, 0.9);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: none;
+    outline: none;
+  }
+  
+  .video-play-button:hover {
+    background: #ff4081;
+    transform: translate(-50%, -50%) scale(1.1);
   }
   
   .media-item img {
@@ -179,22 +235,19 @@ author_profile: true
     height: 200px;
     object-fit: cover;
     display: block;
+    transition: transform 0.5s ease;
   }
   
-  .tech-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin: 1.5rem 0;
+  .media-item:hover img {
+    transform: scale(1.05);
   }
   
-  .tech-tag {
-    background: #e8eaf6;
-    color: #3949ab;
-    padding: 0.3rem 1rem;
-    border-radius: 20px;
+  .media-caption {
+    padding: 1rem;
     font-size: 0.9rem;
-    font-weight: 500;
+    color: #666;
+    text-align: center;
+    border-top: 1px solid #eee;
   }
   
   @media (max-width: 768px) {
@@ -203,29 +256,36 @@ author_profile: true
       gap: 2rem;
     }
     
-    .hero-title {
-      font-size: 2.5rem;
+    .media-grid {
+      grid-template-columns: 1fr;
     }
     
-    .hero-subtitle {
-      font-size: 1.3rem;
+    .research-intro {
+      margin: 2rem 1rem;
+      padding: 1.5rem;
+    }
+    
+    .intro-quote {
+      left: 20px;
+      font-size: 4rem;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .research-thrusts {
+      grid-template-columns: 1fr;
     }
   }
 </style>
 
-<div class="research-hero">
-  <div class="research-hero-content">
-    <h1 class="hero-title">Redefining Communication Frontiers</h1>
-    <div class="hero-subtitle">Building Tomorrow's Connected World Today</div>
-    
-    <div class="hero-text">
-      <p>Communication is more than technology; it is a foundational pillar of human civilization. For decades, its evolution, from theory to the pervasive reality of 5G and WiFi, has been a triumph of science and engineering, a testament to the pioneers who built the invisible infrastructure of our modern world.</p>
-      
-      <p>That very success now invites a profound question: Has the era of fundamental innovation in communication passed? Some observe a mature field and suggest the core work is complete.</p>
-      
-      <p>We see a different reality. The discipline is not ending; it is entering its most critical phase. Like physics or mathematics, communication is a bedrock science. Its prior revolutions constructed the connected world we rely upon; its next evolution will enable and define the future itself.</p>
-    </div>
-  </div>
+<div class="research-intro">
+  <div class="intro-quote">"</div>
+  
+  <p>Communication is more than technology; it is a foundational pillar of human civilization. For decades, its evolution, from theory to the pervasive reality of 5G and WiFi, has been a triumph of science and engineering, a testament to the pioneers who built the invisible infrastructure of our modern world.</p>
+  
+  <p>That very success now invites a profound question: Has the era of fundamental innovation in communication passed? Some observe a mature field and suggest the core work is complete.</p>
+  
+  <p>We see a different reality. The discipline is not ending; it is entering its most critical phase. Like physics or mathematics, communication is a bedrock science. Its prior revolutions constructed the connected world we rely upon; its next evolution will enable and define the future itself.</p>
 </div>
 
 <h2 class="research-agenda-title">Our Research Agenda</h2>
@@ -256,17 +316,32 @@ author_profile: true
         <span class="tech-tag">Next-gen Architectures</span>
       </div>
       
-      <div class="media-grid">
-        <div class="media-item video">
-          <i class="fas fa-play-circle"></i>
+      <div class="media-section">
+        <div class="media-grid">
+          <div class="media-item video">
+            <video id="researchVideo1" width="100%" height="100%" style="display: none;">
+              <source src="/image/video1.mpg" type="video/mpeg">
+              Your browser does not support the video tag.
+            </video>
+            <button class="video-play-button" onclick="playVideo('researchVideo1', this)">
+              <i class="fas fa-play"></i>
+            </button>
+            <div class="media-caption">Wireless AI Research Demonstration</div>
+          </div>
+          <div class="media-item">
+            <img src="https://via.placeholder.com/400x250/3949ab/ffffff?text=Wireless+AI+Research" alt="Wireless AI Research">
+            <div class="media-caption">Wireless AI Research Setup</div>
+          </div>
         </div>
-        <div class="media-item">
-          <!-- Insert image 1 -->
-          <img src="https://via.placeholder.com/300x200/3949ab/ffffff?text=Wireless+AI" alt="Wireless AI Research">
-        </div>
-        <div class="media-item">
-          <!-- Insert image 2 -->
-          <img src="https://via.placeholder.com/300x200/283593/ffffff?text=Robotic+Swarms" alt="Robotic Swarms Research">
+        
+        <div class="media-grid">
+          <div class="media-item">
+            <img src="https://via.placeholder.com/400x250/283593/ffffff?text=Robotic+Swarms" alt="Robotic Swarms Research">
+            <div class="media-caption">Robotic Swarms Communication</div>
+          </div>
+          <div class="media-item">
+            <!-- 这里可以添加第二张图片，如果需要的话 -->
+          </div>
         </div>
       </div>
     </div>
@@ -297,14 +372,16 @@ author_profile: true
         <span class="tech-tag">Emerging Standards</span>
       </div>
       
-      <div class="media-grid">
-        <div class="media-item">
-          <!-- Insert image 1 -->
-          <img src="https://via.placeholder.com/300x200/1a237e/ffffff?text=Extreme+Environment" alt="Extreme Environment Communications">
-        </div>
-        <div class="media-item">
-          <!-- Insert image 2 -->
-          <img src="https://via.placeholder.com/300x200/3949ab/ffffff?text=Optical+Wireless" alt="Optical Wireless Research">
+      <div class="media-section">
+        <div class="media-grid">
+          <div class="media-item">
+            <img src="https://via.placeholder.com/400x250/1a237e/ffffff?text=Extreme+Environment+Comms" alt="Extreme Environment Communications">
+            <div class="media-caption">Extreme Environment Communication Testing</div>
+          </div>
+          <div class="media-item">
+            <img src="https://via.placeholder.com/400x250/3949ab/ffffff?text=Optical+Wireless+Research" alt="Optical Wireless Research">
+            <div class="media-caption">Optical Wireless Communication Setup</div>
+          </div>
         </div>
       </div>
     </div>
@@ -320,9 +397,28 @@ author_profile: true
     document.head.appendChild(link);
   }
   
+  // Video play function
+  function playVideo(videoId, button) {
+    const video = document.getElementById(videoId);
+    const videoContainer = button.parentElement;
+    
+    if (video.paused) {
+      video.style.display = 'block';
+      button.style.display = 'none';
+      video.play();
+      
+      // When video ends, show play button again
+      video.onended = function() {
+        video.style.display = 'none';
+        button.style.display = 'flex';
+      };
+    }
+  }
+  
   // Add scroll animation
   document.addEventListener('DOMContentLoaded', function() {
     const cards = document.querySelectorAll('.research-card');
+    const intro = document.querySelector('.research-intro');
     
     const observer = new IntersectionObserver((entries) => {
       entries.forEach(entry => {
@@ -335,15 +431,46 @@ author_profile: true
       threshold: 0.1
     });
     
+    // Animate intro section
+    intro.style.opacity = '0';
+    intro.style.transform = 'translateY(20px)';
+    intro.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
+    
+    setTimeout(() => {
+      intro.style.opacity = '1';
+      intro.style.transform = 'translateY(0)';
+    }, 300);
+    
+    // Animate cards
     cards.forEach(card => {
       card.style.opacity = '0';
       card.style.transform = 'translateY(20px)';
       card.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
       observer.observe(card);
     });
+    
+    // Pause video when scrolling away
+    const video = document.getElementById('researchVideo1');
+    if (video) {
+      const videoObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (!entry.isIntersecting && !video.paused) {
+            video.pause();
+            const playButton = entry.target.querySelector('.video-play-button');
+            if (playButton) {
+              video.style.display = 'none';
+              playButton.style.display = 'flex';
+            }
+          }
+        });
+      }, {
+        threshold: 0.1
+      });
+      
+      videoObserver.observe(video.parentElement);
+    }
   });
 </script>
-
 
 
 
