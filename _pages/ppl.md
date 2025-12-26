@@ -188,7 +188,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/nuofan_mao.jpg?raw=true" alt="Nuofan Mao">
+        <img src="/images/nuofan_mao.jpg" alt="Nuofan Mao">
       </div>
     </div>
     
@@ -228,7 +228,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/jingreng.jpg?raw=true" alt="Jingreng Lei">
+        <img src="/images/jingreng.jpg" alt="Jingreng Lei">
       </div>
     </div>
     
@@ -245,7 +245,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/qingzhu.jpg?raw=true" alt="Zhu Qing">
+        <img src="/images/qingzhu.jpg" alt="Zhu Qing">
       </div>
     </div>
     
@@ -262,7 +262,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zantian2026.jpg?raw=true" alt="Zantian Zhao">
+        <img src="/images/zantian2026.jpg" alt="Zantian Zhao">
       </div>
     </div>
     
@@ -278,7 +278,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/yanzhe2026.png?raw=true" alt="Yanzhe Li">
+        <img src="/images/yanzhe2026.png" alt="Yanzhe Li">
       </div>
     </div>
     
@@ -294,7 +294,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/zijian.jpg?raw=true" alt="Zijian Yang">
+        <img src="/images/zijian.jpg" alt="Zijian Yang">
       </div>
     </div>
     
@@ -310,7 +310,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/yu.jpg?raw=true" alt="Yu Ding">
+        <img src="/images/yu.jpg" alt="Yu Ding">
       </div>
     </div>
     
@@ -326,7 +326,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/yewen.jpg?raw=true" alt="Yewen Cao">
+        <img src="/images/yewen.jpg" alt="Yewen Cao">
       </div>
     </div>
     
@@ -342,7 +342,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/Enhao.jpg?raw=true" alt="Enhao Chen">
+        <img src="/images/Enhao.jpg" alt="Enhao Chen">
       </div>
     </div>
     
@@ -359,7 +359,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/hongyu.jpg?raw=true" alt="Hongyu An">
+        <img src="/images/hongyu.jpg" alt="Hongyu An">
       </div>
     </div>
     
@@ -375,7 +375,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/dengke.jpg?raw=true" alt="Dengke Wei">
+        <img src="/images/dengke.jpg" alt="Dengke Wei">
       </div>
     </div>
     
@@ -391,7 +391,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/huiji.jpg?raw=true" alt="Huiji Jiao">
+        <img src="/images/huiji.jpg" alt="Huiji Jiao">
       </div>
     </div>
     
@@ -407,7 +407,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/tianji.png?raw=true" alt="Tianji He">
+        <img src="/images/tianji.png" alt="Tianji He">
       </div>
     </div>
     
@@ -424,7 +424,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/fanyang2025.jpg?raw=true" alt="Fan Yang">
+        <img src="/images/fanyang2025.jpg" alt="Fan Yang">
       </div>
     </div>
     
@@ -446,7 +446,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/menghan.jpg?raw=true" alt="Menghan Li">
+        <img src="/images/menghan.jpg" alt="Menghan Li">
       </div>
     </div>
     
@@ -473,7 +473,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/haotian.jpg?raw=true" alt="Haotian Wu">
+        <img src="/images/haotian.jpg" alt="Haotian Wu">
       </div>
     </div>
     
@@ -494,7 +494,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/chenghong.png?raw=true" alt="Chenghong Bian">
+        <img src="/images/chenghong.png" alt="Chenghong Bian">
       </div>
     </div>
     
@@ -514,7 +514,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/runxin.jpg?raw=true" alt="Runxin Zhang">
+        <img src="/images/runxin.jpg" alt="Runxin Zhang">
       </div>
     </div>
     
@@ -534,7 +534,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/haoyang_di.png?raw=true" alt="Haoyang Di">
+        <img src="/images/haoyang_di.png" alt="Haoyang Di">
       </div>
     </div>
     
@@ -554,7 +554,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/pengfei.png?raw=true" alt="Pengfei Shen">
+        <img src="/images/pengfei.png" alt="Pengfei Shen">
       </div>
     </div>
     
@@ -574,7 +574,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/chao_ji.png?raw=true" alt="Chao Ji">
+        <img src="/images/chao_ji.png" alt="Chao Ji">
       </div>
     </div>
     
