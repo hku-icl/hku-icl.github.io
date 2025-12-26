@@ -121,7 +121,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -139,7 +139,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">IOTSC State Key Laboratory</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/UMlogo.png" alt="University of Macau Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="/images/UMlogo.png" alt="University of Macau Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -157,7 +157,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Exeterlogo.png" alt="Exeter University Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="/images/Exeterlogo.png" alt="Exeter University Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -175,7 +175,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -193,7 +193,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Claude E. Shannon Communication and Network Group</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/MITlogo.png" alt="MIT Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="/images/MITlogo.png" alt="MIT Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -210,7 +210,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
             <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Institute of Network Coding</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/INClogo.png" alt="Institute of Network Coding Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="/images/INClogo.png" alt="Institute of Network Coding Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -387,7 +387,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <p style="margin: 0; color: #586069; font-size: 13px;">Dubai, United Arab Emirates</p>
     </div>
     <div style="text-align: center; border-top: 1px solid #f1f1f1; padding-top: 15px;">
-      <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/WCNC2024.png" alt="WCNC Best Paper Award" style="width: 500px; height: 400px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+      <img src="/images/WCNC2024.png" alt="WCNC Best Paper Award" style="width: 500px; height: 400px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
     </div>
   </div>
   
@@ -400,7 +400,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <p style="margin: 0; color: #586069; font-size: 13px;">Rome, Italy</p>
     </div>
     <div style="text-align: center; border-top: 1px solid #f1f1f1; padding-top: 15px;">
-      <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/ICC2023.png" alt="ICC Best Paper Award" style="width: 500px; height: 400px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+      <img src="/images/ICC2023.png" alt="ICC Best Paper Award" style="width: 500px; height: 400px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
     </div>
   </div>
   
@@ -413,7 +413,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <p style="margin: 0; color: #586069; font-size: 13px;">Nanjing, China</p>
     </div>
     <div style="text-align: center; border-top: 1px solid #f1f1f1; padding-top: 15px;">
-      <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/CIE2024.png" alt="CIE Best Poster Award" style="width: 500px; height: 400px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+      <img src="/images/CIE2024.png" alt="CIE Best Poster Award" style="width: 500px; height: 400px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
     </div>
   </div>
   
@@ -472,7 +472,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <div style="display: flex; align-items: flex-start;">
         <!-- 封面图片 -->
         <div style="flex-shrink: 0; width: 100px; margin-right: 15px;">
-          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book1.jpg" alt="AI-Empowered IoT Communications Book Cover" style="width: 100px; height: 140px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+          <img src="/images/Book1.jpg" alt="AI-Empowered IoT Communications Book Cover" style="width: 100px; height: 140px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
         </div>
         <!-- 书籍信息 -->
         <div style="flex-grow: 1;">
@@ -496,7 +496,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <div style="display: flex; align-items: flex-start;">
         <!-- 封面图片 -->
         <div style="flex-shrink: 0; width: 100px; margin-right: 15px;">
-          <img src="https://raw.githubusercontent.com/lynshao/Lab.github.io/master/images/Book2.jpg" alt="Deep Joint Source and Channel Coding Book Cover" style="width: 100px; height: 140px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+          <img src="/images/Book2.jpg" alt="Deep Joint Source and Channel Coding Book Cover" style="width: 100px; height: 140px; object-fit: cover; border-radius: 4px; border: 1px solid #eaecef; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
         </div>
         <!-- 书籍信息 -->
         <div style="flex-grow: 1;">
