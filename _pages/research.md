@@ -329,20 +329,35 @@ author_profile: true
           </div>
           
           <div class="media-item">
-            <img src="/image/research/A2.pdf" alt="Wireless AI Research">
-            <div class="media-caption"> <!-- caption: Wireless AI Research Setup--> </div>
+            <img src="/image/research/A2.png" alt="">
+            <div class="media-caption"> <!-- write caption here --> </div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
-            <img src="https://via.placeholder.com/400x250/283593/ffffff?text=Robotic+Swarms" alt="Robotic Swarms Research">
-            <div class="media-caption">Robotic Swarms Communication</div>
+            <img src="/image/research/A3.png" alt="">
+            <div class="media-caption"> <!-- write caption here --> </div>
           </div>
           <div class="media-item">
-            <!-- 这里可以添加第二张图片，如果需要的话 -->
+            <img src="/image/research/A4.png" alt="">
+            <div class="media-caption"> <!-- write caption here --> </div>
           </div>
         </div>
+        
+        <div class="media-grid">
+          <div class="media-item">
+            <img src="/image/research/A5.png" alt="">
+            <div class="media-caption"> <!-- write caption here --> </div>
+          </div>
+          <div class="media-item">
+            <img src="/image/research/A6.png" alt="">
+            <div class="media-caption"> <!-- write caption here --> </div>
+          </div>
+        </div>
+
+
+        
       </div>
     </div>
   </div>
