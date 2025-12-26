@@ -13,7 +13,7 @@ name                     : &name "Intelligent Communication Lab"
 description              : &description "The University of Hong Kong"
 url                      : https://lynshao.github.io/Lab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lynshao/Lab.github.io"
+repository               : "hku-icl/hku-icl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -110,7 +110,7 @@ author:
   steam            : 
   tumblr           : 
   twitter          : 
-  vine             : 
+  vine             : https://www.xiaohongshu.com/user/profile/68a6d947000000001803d3bd
   weibo            : 
   xing             : 
   youtube          : 
