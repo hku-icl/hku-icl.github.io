@@ -189,6 +189,8 @@ author_profile: true
     box-shadow: 0 5px 15px rgba(0,0,0,0.08);
     transition: transform 0.3s ease;
     background: white;
+    position: relative;
+    min-height: 200px;
   }
   
   .media-item:hover {
@@ -204,6 +206,20 @@ author_profile: true
     justify-content: center;
     color: white;
     position: relative;
+  }
+  
+  .video-container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+  }
+  
+  .video-container video {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    background: #000;
+    display: none;
   }
   
   .video-play-button {
@@ -223,6 +239,7 @@ author_profile: true
     transition: all 0.3s ease;
     border: none;
     outline: none;
+    z-index: 2;
   }
   
   .video-play-button:hover {
@@ -232,10 +249,13 @@ author_profile: true
   
   .media-item img {
     width: 100%;
-    height: 200px;
-    object-fit: cover;
+    height: 100%;
+    max-height: 300px;
+    object-fit: contain; /* 改为contain以完整显示图片 */
     display: block;
     transition: transform 0.5s ease;
+    background-color: #f8f9fa; /* 添加背景色填充空白区域 */
+    padding: 10px; /* 添加内边距 */
   }
   
   .media-item:hover img {
@@ -248,6 +268,7 @@ author_profile: true
     color: #666;
     text-align: center;
     border-top: 1px solid #eee;
+    background: #f8f9fa;
   }
   
   @media (max-width: 768px) {
@@ -268,6 +289,10 @@ author_profile: true
     .intro-quote {
       left: 20px;
       font-size: 4rem;
+    }
+    
+    .media-item img {
+      max-height: 250px;
     }
   }
   
@@ -318,46 +343,48 @@ author_profile: true
       <div class="media-section">
         <div class="media-grid">
           <div class="media-item video">
-            <video id="researchVideo1" width="100%" height="100%" style="display: none;">
-              <source src="/images/research/video1.mp4" type="video/mpeg">
-              Your browser does not support the video tag.
-            </video>
+            <div class="video-container">
+              <!-- 添加多种格式以确保浏览器兼容性 -->
+              <video id="researchVideo1" controls style="display: none;">
+                <source src="/images/research/video1.mp4" type="video/mp4">
+                <source src="/images/research/video1.webm" type="video/webm">
+                <source src="/images/research/video1.ogg" type="video/ogg">
+                Your browser does not support the video tag.
+              </video>
+            </div>
             <button class="video-play-button" onclick="playVideo('researchVideo1', this)">
               <i class="fas fa-play"></i>
             </button>
-            <div class="media-caption"> <!-- caption: Wireless AI Research Demonstration--> </div>
+            <div class="media-caption">Wireless AI Research Demonstration</div>
           </div>
           
           <div class="media-item">
-            <img src="/images/research/A2.png" alt="">
-            <div class="media-caption"> <!-- write caption here --> </div>
+            <img src="/images/research/A2.png" alt="Research Image A2">
+            <div class="media-caption">Research Figure A2</div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
-            <img src="/images/research/A3.png" alt="">
-            <div class="media-caption"> <!-- write caption here --> </div>
+            <img src="/images/research/A3.png" alt="Research Image A3">
+            <div class="media-caption">Research Figure A3</div>
           </div>
           <div class="media-item">
-            <img src="/images/research/A4.png" alt="">
-            <div class="media-caption"> <!-- write caption here --> </div>
+            <img src="/images/research/A4.png" alt="Research Image A4">
+            <div class="media-caption">Research Figure A4</div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
-            <img src="/images/research/A5.png" alt="">
-            <div class="media-caption"> <!-- write caption here --> </div>
+            <img src="/images/research/A5.png" alt="Research Image A5">
+            <div class="media-caption">Research Figure A5</div>
           </div>
           <div class="media-item">
-            <img src="/images/research/A6.png" alt="">
-            <div class="media-caption"> <!-- write caption here --> </div>
+            <img src="/images/research/A6.png" alt="Research Image A6">
+            <div class="media-caption">Research Figure A6</div>
           </div>
         </div>
-
-
-        
       </div>
     </div>
   </div>
@@ -390,52 +417,51 @@ author_profile: true
       <div class="media-section">
         <div class="media-grid">
           <div class="media-item">
-            <img src="images/research/A2.png" alt="">
-            <div class="media-caption"> <!-- caption here --> </div>
+            <img src="/images/research/B1.png" alt="Research Image B1">
+            <div class="media-caption">6G Network Architecture</div>
           </div>
           
           <div class="media-item">
-            <img src="images/research/A2.png" alt="">
-            <div class="media-caption"> <!-- caption here --> </div>
+            <img src="/images/research/B2.png" alt="Research Image B2">
+            <div class="media-caption">Wi-Fi 7 Performance Analysis</div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
-            <img src="images/research/A2.png" alt="">
-            <div class="media-caption"> <!-- caption here --> </div>
+            <img src="/images/research/B3.png" alt="Research Image B3">
+            <div class="media-caption">Underwater Communication Test</div>
           </div>
           
           <div class="media-item">
-            <img src="images/research/A2.png" alt="">
-            <div class="media-caption"> <!-- caption here --> </div>
+            <img src="/images/research/B4.png" alt="Research Image B4">
+            <div class="media-caption">Optical Wireless Setup</div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
-            <img src="images/research/A2.png" alt="">
-            <div class="media-caption"> <!-- caption here --> </div>
+            <img src="/images/research/B5.png" alt="Research Image B5">
+            <div class="media-caption">Network Optimization Algorithm</div>
           </div>
           
           <div class="media-item">
-            <img src="images/research/A2.png" alt="">
-            <div class="media-caption"> <!-- caption here --> </div>
+            <img src="/images/research/B6.png" alt="Research Image B6">
+            <div class="media-caption">Extreme Environment Testing</div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
-            <img src="images/research/A2.png" alt="">
-            <div class="media-caption"> <!-- caption here --> </div>
+            <img src="/images/research/B7.png" alt="Research Image B7">
+            <div class="media-caption">Space Communication Simulation</div>
           </div>
           
           <div class="media-item">
-            <img src="images/research/A2.png" alt="">
-            <div class="media-caption"> <!-- caption here --> </div>
+            <img src="/images/research/B8.png" alt="Research Image B8">
+            <div class="media-caption">Protocol Design Framework</div>
           </div>
         </div>
-        
       </div>
     </div>
   </div>
@@ -453,20 +479,56 @@ author_profile: true
   // Video play function
   function playVideo(videoId, button) {
     const video = document.getElementById(videoId);
-    const videoContainer = button.parentElement;
+    const videoContainer = button.parentElement.querySelector('.video-container');
     
-    if (video.paused) {
+    if (video) {
+      // 显示视频元素
       video.style.display = 'block';
-      button.style.display = 'none';
-      video.play();
       
-      // When video ends, show play button again
+      // 隐藏播放按钮
+      button.style.display = 'none';
+      
+      // 开始播放
+      video.play().catch(function(error) {
+        console.log("Video play failed:", error);
+        // 如果自动播放失败，显示控制条
+        video.controls = true;
+        video.play();
+      });
+      
+      // 当视频结束时，显示播放按钮
       video.onended = function() {
         video.style.display = 'none';
         button.style.display = 'flex';
+        video.currentTime = 0; // 重置视频到开始
+      };
+      
+      // 如果有错误，显示错误信息
+      video.onerror = function() {
+        console.log("Error loading video");
+        // 显示错误信息
+        button.innerHTML = '<i class="fas fa-exclamation-triangle"></i>';
+        button.style.background = '#ff6b6b';
+        setTimeout(function() {
+          button.innerHTML = '<i class="fas fa-play"></i>';
+          button.style.background = 'rgba(255, 64, 129, 0.9)';
+          button.style.display = 'flex';
+          video.style.display = 'none';
+        }, 2000);
       };
     }
   }
+  
+  // 图片加载错误处理
+  document.addEventListener('DOMContentLoaded', function() {
+    const images = document.querySelectorAll('img');
+    images.forEach(img => {
+      img.onerror = function() {
+        this.src = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300"><rect width="400" height="300" fill="%23f0f0f0"/><text x="200" y="150" font-family="Arial" font-size="16" text-anchor="middle" fill="%23999">Image not found</text></svg>';
+        this.alt = 'Image not found';
+      };
+    });
+  });
   
   // Add scroll animation
   document.addEventListener('DOMContentLoaded', function() {
@@ -513,6 +575,7 @@ author_profile: true
             if (playButton) {
               video.style.display = 'none';
               playButton.style.display = 'flex';
+              video.currentTime = 0;
             }
           }
         });
@@ -524,7 +587,6 @@ author_profile: true
     }
   });
 </script>
-
 
 
 
