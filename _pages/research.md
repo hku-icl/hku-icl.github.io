@@ -319,7 +319,7 @@ author_profile: true
         <div class="media-grid">
           <div class="media-item video">
             <video id="researchVideo1" width="100%" height="100%" style="display: none;">
-              <source src="/image/video1.mpg" type="video/mpeg">
+              <source src="/image/research/video1.mp4" type="video/mpeg">
               Your browser does not support the video tag.
             </video>
             <button class="video-play-button" onclick="playVideo('researchVideo1', this)">
