@@ -381,7 +381,7 @@ author_profile: true
             <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
           <div class="media-item">
-            <img src="/images/research/A6.png" alt="Research Image A6">
+            <img src="/images/research/A7.png" alt="Research Image A6">
             <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
         </div>
