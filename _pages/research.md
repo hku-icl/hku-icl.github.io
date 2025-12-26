@@ -325,11 +325,12 @@ author_profile: true
             <button class="video-play-button" onclick="playVideo('researchVideo1', this)">
               <i class="fas fa-play"></i>
             </button>
-            <div class="media-caption">Wireless AI Research Demonstration</div>
+            <div class="media-caption"> <!-- caption: Wireless AI Research Demonstration--> </div>
           </div>
+          
           <div class="media-item">
-            <img src="https://via.placeholder.com/400x250/3949ab/ffffff?text=Wireless+AI+Research" alt="Wireless AI Research">
-            <div class="media-caption">Wireless AI Research Setup</div>
+            <img src="/image/research/A2.pdf" alt="Wireless AI Research">
+            <div class="media-caption"> <!-- caption: Wireless AI Research Setup--> </div>
           </div>
         </div>
         
