@@ -34,11 +34,9 @@ Our second research thrust focuses on the evolution and innovation of wireless s
 
 我们的第二个主要研究方向，是无线通信系统本身的“演进与革新”。核心目标在于全面提升系统的传输速率、降低时延与抖动，并保障极高的通信可靠性。一方面，我们着力强化与完善现有通信体系，针对5G、WiFi、蓝牙、NB-IoT等主流标准与场景，研究更优的物理层技术、协议设计及网络优化方法；另一方面，我们也积极开拓面向未来的新型无线通信系统，涵盖透地通信、深海通信、深空通信以及无线光通信等极端或新兴信道环境，为解决特殊场景中的通信难题开发创新性技术。
 
+insert image 1
+
+insert image 2
 
 
 
-
-[![Watch the video](https://img.youtube.com/vi/aTGD8EjQ8kM/hqdefault.jpg)](https://youtu.be/aTGD8EjQ8kM)
-
-
--->
