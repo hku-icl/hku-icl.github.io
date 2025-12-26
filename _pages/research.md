@@ -7,22 +7,23 @@ author_profile: true
 <p style="color: #24292e; font-size: 16px; line-height: 1.7; margin: 0 0 20px 0;">
       Communication is more than technology; it is a foundational pillar of human civilization. For decades, its evolution, from theory to the pervasive reality of 5G and WiFi, has been a triumph of science and engineering, a testament to the pioneers who built the invisible infrastructure of our modern world.
 </p>
-    
+
+<p style="color: #24292e; font-size: 16px; line-height: 1.7; margin: 0 0 20px 0;">
+      That very success now invites a profound question: Has the era of fundamental innovation in communication passed? Some observe a mature field and suggest the core work is complete.
+</p>
+
+<p style="color: #24292e; font-size: 16px; line-height: 1.7; margin: 0 0 20px 0;">
+      We see a different reality. The discipline is not ending; it is entering its most critical phase. Like physics or mathematics, communication is a bedrock science. Its prior revolutions constructed the connected world we rely upon; its next evolution will enable and define the future itself. To view this field as "solved" is to mistake a foundation for a finished building. The foundation must now be strengthened, expanded, and re-imagined to support the structures of tomorrow: the networks of distributed intelligence, the Internet of Agents, and paradigms of interaction we have yet to conceive.
+</p>
+
+
+
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
 
   <!-- Opening Statements -->
   <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 30px; margin-bottom: 30px; box-shadow: 0 3px 10px rgba(0,0,0,0.05);">
-    <p style="color: #24292e; font-size: 16px; line-height: 1.7; margin: 0 0 20px 0;">
-      Communication is more than technology; it is a foundational pillar of human civilization. For decades, its evolution, from theory to the pervasive reality of 5G and WiFi, has been a triumph of science and engineering, a testament to the pioneers who built the invisible infrastructure of our modern world.
-    </p>
     
-    <p style="color: #24292e; font-size: 16px; line-height: 1.7; margin: 0 0 20px 0;">
-      That very success now invites a profound question: Has the era of fundamental innovation in communication passed? Some observe a mature field and suggest the core work is complete.
-    </p>
-    
-    <p style="color: #24292e; font-size: 16px; line-height: 1.7; margin: 0 0 20px 0;">
-      We see a different reality. The discipline is not ending; it is entering its most critical phase. Like physics or mathematics, communication is a bedrock science. Its prior revolutions constructed the connected world we rely upon; its next evolution will enable and define the future itself. To view this field as "solved" is to mistake a foundation for a finished building. The foundation must now be strengthened, expanded, and re-imagined to support the structures of tomorrow: the networks of distributed intelligence, the Internet of Agents, and paradigms of interaction we have yet to conceive.
-    </p>
+
     
     <div style="background: #f8f9fa; border-left: 4px solid #0366d6; border-radius: 4px; padding: 20px; margin: 25px 0;">
       <h3 style="color: #24292e; font-size: 18px; font-weight: 600; margin: 0 0 15px 0;">Our Research Agenda</h3>
