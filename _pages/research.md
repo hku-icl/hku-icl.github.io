@@ -380,24 +380,62 @@ author_profile: true
       </div>
       
       <div class="tech-tags">
-        <span class="tech-tag">6G & Beyond</span>
+        <span class="tech-tag">6G</span>
+        <span class="tech-tag">Wi-Fi</span>
         <span class="tech-tag">Extreme Environment Comms</span>
         <span class="tech-tag">Optical Wireless</span>
         <span class="tech-tag">Network Optimization</span>
-        <span class="tech-tag">Emerging Standards</span>
       </div>
       
       <div class="media-section">
         <div class="media-grid">
           <div class="media-item">
-            <img src="https://via.placeholder.com/400x250/1a237e/ffffff?text=Extreme+Environment+Comms" alt="Extreme Environment Communications">
-            <div class="media-caption">Extreme Environment Communication Testing</div>
+            <img src="images/research/A2.png" alt="">
+            <div class="media-caption"> <!-- caption here --> </div>
           </div>
+          
           <div class="media-item">
-            <img src="https://via.placeholder.com/400x250/3949ab/ffffff?text=Optical+Wireless+Research" alt="Optical Wireless Research">
-            <div class="media-caption">Optical Wireless Communication Setup</div>
+            <img src="images/research/A2.png" alt="">
+            <div class="media-caption"> <!-- caption here --> </div>
           </div>
         </div>
+        
+        <div class="media-grid">
+          <div class="media-item">
+            <img src="images/research/A2.png" alt="">
+            <div class="media-caption"> <!-- caption here --> </div>
+          </div>
+          
+          <div class="media-item">
+            <img src="images/research/A2.png" alt="">
+            <div class="media-caption"> <!-- caption here --> </div>
+          </div>
+        </div>
+        
+        <div class="media-grid">
+          <div class="media-item">
+            <img src="images/research/A2.png" alt="">
+            <div class="media-caption"> <!-- caption here --> </div>
+          </div>
+          
+          <div class="media-item">
+            <img src="images/research/A2.png" alt="">
+            <div class="media-caption"> <!-- caption here --> </div>
+          </div>
+        </div>
+        
+        <div class="media-grid">
+          <div class="media-item">
+            <img src="images/research/A2.png" alt="">
+            <div class="media-caption"> <!-- caption here --> </div>
+          </div>
+          
+          <div class="media-item">
+            <img src="images/research/A2.png" alt="">
+            <div class="media-caption"> <!-- caption here --> </div>
+          </div>
+        </div>
+        
       </div>
     </div>
   </div>
