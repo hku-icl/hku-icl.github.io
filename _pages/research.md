@@ -319,7 +319,7 @@ author_profile: true
         <div class="media-grid">
           <div class="media-item video">
             <video id="researchVideo1" width="100%" height="100%" style="display: none;">
-              <source src="/image/research/video1.mp4" type="video/mpeg">
+              <source src="/images/research/video1.mp4" type="video/mpeg">
               Your browser does not support the video tag.
             </video>
             <button class="video-play-button" onclick="playVideo('researchVideo1', this)">
@@ -329,29 +329,29 @@ author_profile: true
           </div>
           
           <div class="media-item">
-            <img src="/image/research/A2.png" alt="">
+            <img src="/images/research/A2.png" alt="">
             <div class="media-caption"> <!-- write caption here --> </div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
-            <img src="/image/research/A3.png" alt="">
+            <img src="/images/research/A3.png" alt="">
             <div class="media-caption"> <!-- write caption here --> </div>
           </div>
           <div class="media-item">
-            <img src="/image/research/A4.png" alt="">
+            <img src="/images/research/A4.png" alt="">
             <div class="media-caption"> <!-- write caption here --> </div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
-            <img src="/image/research/A5.png" alt="">
+            <img src="/images/research/A5.png" alt="">
             <div class="media-caption"> <!-- write caption here --> </div>
           </div>
           <div class="media-item">
-            <img src="/image/research/A6.png" alt="">
+            <img src="/images/research/A6.png" alt="">
             <div class="media-caption"> <!-- write caption here --> </div>
           </div>
         </div>
