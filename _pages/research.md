@@ -355,34 +355,34 @@ author_profile: true
             <button class="video-play-button" onclick="playVideo('researchVideo1', this)">
               <i class="fas fa-play"></i>
             </button>
-            <div class="media-caption">Wireless AI Research Demonstration</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
           
           <div class="media-item">
             <img src="/images/research/A2.png" alt="Research Image A2">
-            <div class="media-caption">Research Figure A2</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
             <img src="/images/research/A3.png" alt="Research Image A3">
-            <div class="media-caption">Research Figure A3</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
           <div class="media-item">
             <img src="/images/research/A4.png" alt="Research Image A4">
-            <div class="media-caption">Research Figure A4</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
             <img src="/images/research/A5.png" alt="Research Image A5">
-            <div class="media-caption">Research Figure A5</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
           <div class="media-item">
             <img src="/images/research/A6.png" alt="Research Image A6">
-            <div class="media-caption">Research Figure A6</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
         </div>
       </div>
@@ -418,48 +418,48 @@ author_profile: true
         <div class="media-grid">
           <div class="media-item">
             <img src="/images/research/B1.png" alt="Research Image B1">
-            <div class="media-caption">6G Network Architecture</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
           
           <div class="media-item">
             <img src="/images/research/B2.jpg" alt="Research Image B2">
-            <div class="media-caption">Wi-Fi 7 Performance Analysis</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
             <img src="/images/research/B3.png" alt="Research Image B3">
-            <div class="media-caption">Underwater Communication Test</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
           
           <div class="media-item">
             <img src="/images/research/B4.png" alt="Research Image B4">
-            <div class="media-caption">Optical Wireless Setup</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
             <img src="/images/research/B5.png" alt="Research Image B5">
-            <div class="media-caption">Network Optimization Algorithm</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
           
           <div class="media-item">
-            <img src="/images/research/B6.jpg" alt="Research Image B6">
-            <div class="media-caption">Extreme Environment Testing</div>
+            <img src="/images/research/B6.JPG" alt="Research Image B6">
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
         </div>
         
         <div class="media-grid">
           <div class="media-item">
             <img src="/images/research/B7.png" alt="Research Image B7">
-            <div class="media-caption">Space Communication Simulation</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
           
           <div class="media-item">
             <img src="/images/research/B8.png" alt="Research Image B8">
-            <div class="media-caption">Protocol Design Framework</div>
+            <div class="media-caption"> <!-- CAPTION HERE --> </div>
           </div>
         </div>
       </div>
