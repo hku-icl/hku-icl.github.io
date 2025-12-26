@@ -89,11 +89,11 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?user=jd5FILAAAAAJ&hl"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.zhihu.com/people/y.shao"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         : 
-  flickr           : 
+  flickr           : "https://www.zhihu.com/people/y.shao"
   facebook         : 
   foursquare       : 
   github           : # "academicpages"
