@@ -422,7 +422,7 @@ author_profile: true
           </div>
           
           <div class="media-item">
-            <img src="/images/research/B2.png" alt="Research Image B2">
+            <img src="/images/research/B2.jpg" alt="Research Image B2">
             <div class="media-caption">Wi-Fi 7 Performance Analysis</div>
           </div>
         </div>
@@ -446,7 +446,7 @@ author_profile: true
           </div>
           
           <div class="media-item">
-            <img src="/images/research/B6.png" alt="Research Image B6">
+            <img src="/images/research/B6.jpg" alt="Research Image B6">
             <div class="media-caption">Extreme Environment Testing</div>
           </div>
         </div>
