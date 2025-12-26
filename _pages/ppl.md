@@ -205,7 +205,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="https://github.com/lynshao/Lab.github.io/blob/master/images/dongyan2026.jpg?raw=true" alt="Dongyan Sui">
+        <img src="/images/dongyan2026.jpg" alt="Dongyan Sui">
       </div>
     </div>
     
