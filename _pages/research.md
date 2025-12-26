@@ -16,214 +16,26 @@ author_profile: true
       We see a different reality. The discipline is not ending; it is entering its most critical phase. Like physics or mathematics, communication is a bedrock science. Its prior revolutions constructed the connected world we rely upon; its next evolution will enable and define the future itself. To view this field as "solved" is to mistake a foundation for a finished building. The foundation must now be strengthened, expanded, and re-imagined to support the structures of tomorrow: the networks of distributed intelligence, the Internet of Agents, and paradigms of interaction we have yet to conceive.
 </p>
 
+Our Research Agenda
+
+[first]
+Our first research thrust positions wireless communication as an enabling hub for tomorrow’s key technologies. We design next-generation network architectures and transmission mechanisms to support cross-disciplinary applications. This includes: building efficient and reliable communication frameworks for distributed artificial intelligence; enabling real-time and stable networking for robotic swarms; developing low-latency, high-fidelity wireless links for brain-computer interfaces; and constructing large-scale sensing networks for planet-scale environmental monitoring. By deeply integrating communications with AI, robotics, and other cutting-edge fields, we help realize true digital transformation and intelligent advancement.
+
+我们的第一个主要研究方向，是让无线通信成为未来关键科技的“赋能中枢”。 我们探索并设计下一代无线网络架构与传输机制，以支撑跨学科、跨领域的融合应用。包括：为分布式人工智能系统提供高效可靠的协同通信支持；为集群机器人系统实现实时、稳定的组网与控制；为脑机接口设备开发低延迟、高保真的无线传输方案；以及为实现全球尺度的高精度环境感知与监测构建大规模无线传感网络。通过通信与其他前沿科技的深度融合，我们助力多个行业实现数字化转型与智能化跨越。
+
+insert video 1
+
+insert image 1
+
+insert image 2
+
+[Second]
+Our second research thrust focuses on the evolution and innovation of wireless systems themselves. We aim to continuously increase data rates, approach near-zero latency, and ensure ultra-high reliability. On one hand, we enhance existing systems, such as 5G, WiFi, Bluetooth, and NB-IoT, through improved physical-layer techniques, protocol design, and network optimization. On the other, we pioneer new communication paradigms for extreme and emerging environments, including underground, underwater, space, and optical wireless communications, developing innovative solutions for connectivity where it was once thought impossible.
+
+我们的第二个主要研究方向，是无线通信系统本身的“演进与革新”。核心目标在于全面提升系统的传输速率、降低时延与抖动，并保障极高的通信可靠性。一方面，我们着力强化与完善现有通信体系，针对5G、WiFi、蓝牙、NB-IoT等主流标准与场景，研究更优的物理层技术、协议设计及网络优化方法；另一方面，我们也积极开拓面向未来的新型无线通信系统，涵盖透地通信、深海通信、深空通信以及无线光通信等极端或新兴信道环境，为解决特殊场景中的通信难题开发创新性技术。
 
 
-<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
 
-  <!-- Opening Statements -->
-  <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 30px; margin-bottom: 30px; box-shadow: 0 3px 10px rgba(0,0,0,0.05);">
-    
-
-    
-    <div style="background: #f8f9fa; border-left: 4px solid #0366d6; border-radius: 4px; padding: 20px; margin: 25px 0;">
-      <h3 style="color: #24292e; font-size: 18px; font-weight: 600; margin: 0 0 15px 0;">Our Research Agenda</h3>
-      <div style="display: flex; flex-direction: column; gap: 15px;">
-        <div style="display: flex; align-items: flex-start;">
-          <div style="width: 8px; height: 8px; background: #0366d6; border-radius: 50%; margin: 8px 12px 0 0; flex-shrink: 0;"></div>
-          <div>
-            <h4 style="color: #24292e; font-size: 16px; font-weight: 600; margin: 0 0 5px 0;">The Science of Perfection ('X' for Communication)</h4>
-            <p style="color: #586069; font-size: 15px; line-height: 1.6; margin: 0;">
-              Current networks are a monumental achievement, but they are not static endpoints. We treat standards like 5G and WiFi as living, adaptive platforms. Our work here focuses on their continuous transformation through strategic integration. We ask: How can the latest breakthroughs in artificial intelligence, advanced computing, and novel materials be fused into the communication fabric to make it radically more efficient, intelligent, and resilient? This is "X for Communication": the deliberate application of adjacent revolutions to perfect our most critical global infrastructure.
-            </p>
-          </div>
-        </div>
-        
-        <div style="display: flex; align-items: flex-start;">
-          <div style="width: 8px; height: 8px; background: #0366d6; border-radius: 50%; margin: 8px 12px 0 0; flex-shrink: 0;"></div>
-          <div>
-            <h4 style="color: #24292e; font-size: 16px; font-weight: 600; margin: 0 0 5px 0;">The Architecture of the Future (Communication as an Enabler)</h4>
-            <p style="color: #586069; font-size: 15px; line-height: 1.6; margin: 0;">
-              Beyond evolving existing systems, we are designing the fundamental communication primitives for tomorrow's breakthroughs. The next frontiers in science and technology, from distributed AI and swarm robotics to brain-computer interfaces and planet-scale sensing, are constrained not by ideas, but by their need for new forms of dialogue. We engineer the protocols, algorithms, and system designs that allow distributed intelligences to collaborate, that turn fragmented data into coherent insight, and that make emerging technologies truly scalable and synergistic. Here, we are not merely improving communication; we are building the connective tissue of future progress.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-  </div>
-
-  <!-- Research Topics Section -->
-  <div style="margin-bottom: 40px;">
-    <h2 style="color: #24292e; font-size: 24px; font-weight: 600; margin: 0 0 20px 0; padding-bottom: 10px; border-bottom: 2px solid #0366d6;">Research Topics</h2>
-    
-    <!-- Topic 1 -->
-    <a href="#" style="text-decoration: none; display: block; margin-bottom: 15px;">
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; transition: all 0.2s; box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
-        <div style="display: flex; align-items: flex-start;">
-          <div style="width: 6px; height: 6px; background: #0366d6; border-radius: 50%; margin: 10px 15px 0 0; flex-shrink: 0;"></div>
-          <div style="flex-grow: 1;">
-            <h3 style="color: #24292e; font-size: 18px; font-weight: 600; margin: 0 0 8px 0;">Topic 1 (Source): DeepJSCC and DL-based compression</h3>
-            <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
-              We leverage DL to design Joint Source-Channel Coding schemes. This allows communication systems to be optimized directly for source-related metrics, moving beyond traditional bit-error-rate objectives and enabling goal-oriented semantic communication.
-            </p>
-          </div>
-          <div style="color: #0366d6; font-size: 14px; font-weight: 500; margin-left: 15px; white-space: nowrap; padding-top: 3px;">
-            Learn more →
-          </div>
-        </div>
-      </div>
-    </a>
-    
-    <!-- Topic 2 -->
-    <a href="#" style="text-decoration: none; display: block; margin-bottom: 15px;">
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; transition: all 0.2s; box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
-        <div style="display: flex; align-items: flex-start;">
-          <div style="width: 6px; height: 6px; background: #0366d6; border-radius: 50%; margin: 10px 15px 0 0; flex-shrink: 0;"></div>
-          <div style="flex-grow: 1;">
-            <h3 style="color: #24292e; font-size: 18px; font-weight: 600; margin: 0 0 8px 0;">Topic 2 (Baseband): Wireless Signal Processing</h3>
-            <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
-              We focus on optimal transceiver design for the physical layer by employing advanced model-based signal processing techniques. Our work addresses the core challenge of reliable communication by tailoring solutions to the specific characteristics of the wireless channel.
-            </p>
-          </div>
-          <div style="color: #0366d6; font-size: 14px; font-weight: 500; margin-left: 15px; white-space: nowrap; padding-top: 3px;">
-            Learn more →
-          </div>
-        </div>
-      </div>
-    </a>
-    
-    <!-- Topic 3 -->
-    <a href="#" style="text-decoration: none; display: block; margin-bottom: 15px;">
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; transition: all 0.2s; box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
-        <div style="display: flex; align-items: flex-start;">
-          <div style="width: 6px; height: 6px; background: #0366d6; border-radius: 50%; margin: 10px 15px 0 0; flex-shrink: 0;"></div>
-          <div style="flex-grow: 1;">
-            <h3 style="color: #24292e; font-size: 18px; font-weight: 600; margin: 0 0 8px 0;">Topic 3 (Transmission): Flexible Antenna Systems and Electromagnetic Co-Optimization</h3>
-            <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
-              We pursue holistic communication system optimization by jointly designing across domains: from electromagnetic theory and antenna design to wave propagation and baseband processing. This integrated approach unlocks performance gains beyond isolated component design.
-            </p>
-          </div>
-          <div style="color: #0366d6; font-size: 14px; font-weight: 500; margin-left: 15px; white-space: nowrap; padding-top: 3px;">
-            Learn more →
-          </div>
-        </div>
-      </div>
-    </a>
-    
-    <!-- Topic 4 -->
-    <a href="#" style="text-decoration: none; display: block; margin-bottom: 15px;">
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; transition: all 0.2s; box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
-        <div style="display: flex; align-items: flex-start;">
-          <div style="width: 6px; height: 6px; background: #0366d6; border-radius: 50%; margin: 10px 15px 0 0; flex-shrink: 0;"></div>
-          <div style="flex-grow: 1;">
-            <h3 style="color: #24292e; font-size: 18px; font-weight: 600; margin: 0 0 8px 0;">Topic 4 (Feedback): Rich-ARQ</h3>
-            <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
-              We innovate in feedback mechanisms by embedding rich, beyond-1-bit information into acknowledgment packets. A key focus is utilizing deep learning to design efficient feedback channel codes, significantly improving system adaptation and reliability.
-            </p>
-          </div>
-          <div style="color: #0366d6; font-size: 14px; font-weight: 500; margin-left: 15px; white-space: nowrap; padding-top: 3px;">
-            Learn more →
-          </div>
-        </div>
-      </div>
-    </a>
-    
-    <!-- Topic 5 -->
-    <a href="#" style="text-decoration: none; display: block; margin-bottom: 15px;">
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; transition: all 0.2s; box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
-        <div style="display: flex; align-items: flex-start;">
-          <div style="width: 6px; height: 6px; background: #0366d6; border-radius: 50%; margin: 10px 15px 0 0; flex-shrink: 0;"></div>
-          <div style="flex-grow: 1;">
-            <h3 style="color: #24292e; font-size: 18px; font-weight: 600; margin: 0 0 8px 0;">Topic 5 (MAC and NET): Efficient Access and Networking</h3>
-            <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
-              We tackle critical challenges at the Medium Access Control and Network layers. Our research aims to solve fundamental pain points related to resource allocation, access coordination, and scalable networking in modern wireless systems.
-            </p>
-          </div>
-          <div style="color: #0366d6; font-size: 14px; font-weight: 500; margin-left: 15px; white-space: nowrap; padding-top: 3px;">
-            Learn more →
-          </div>
-        </div>
-      </div>
-    </a>
-    
-    <!-- Topic 6 -->
-    <a href="#" style="text-decoration: none; display: block; margin-bottom: 15px;">
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; transition: all 0.2s; box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
-        <div style="display: flex; align-items: flex-start;">
-          <div style="width: 6px; height: 6px; background: #0366d6; border-radius: 50%; margin: 10px 15px 0 0; flex-shrink: 0;"></div>
-          <div style="flex-grow: 1;">
-            <h3 style="color: #24292e; font-size: 18px; font-weight: 600; margin: 0 0 8px 0;">Topic 6 (Communication as an Enabler): Multi-Agent Systems</h3>
-            <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
-              Our research explores communication in two key agent-related areas: 1) Designing communication protocols to resolve cognitive misalignment among multiple agents; 2) Designing intelligent agents capable of orchestrating IoT systems and executing complex task planning.
-            </p>
-          </div>
-          <div style="color: #0366d6; font-size: 14px; font-weight: 500; margin-left: 15px; white-space: nowrap; padding-top: 3px;">
-            Learn more →
-          </div>
-        </div>
-      </div>
-    </a>
-    
-    <!-- Topic 7 -->
-    <a href="#" style="text-decoration: none; display: block; margin-bottom: 0;">
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 20px; transition: all 0.2s; box-shadow: 0 2px 6px rgba(0,0,0,0.03);">
-        <div style="display: flex; align-items: flex-start;">
-          <div style="width: 6px; height: 6px; background: #0366d6; border-radius: 50%; margin: 10px 15px 0 0; flex-shrink: 0;"></div>
-          <div style="flex-grow: 1;">
-            <h3 style="color: #24292e; font-size: 18px; font-weight: 600; margin: 0 0 8px 0;">Topic 7 (Communication as an Enabler): Federated Learning via AirComp</h3>
-            <p style="color: #586069; font-size: 15px; line-height: 1.5; margin: 0;">
-              We address the communication bottleneck in Federated Learning by leveraging the Over-the-Air Computation framework. This technique allows efficient model aggregation directly in the wireless domain, dramatically improving the scalability of distributed learning over networks.
-            </p>
-          </div>
-          <div style="color: #0366d6; font-size: 14px; font-weight: 500; margin-left: 15px; white-space: nowrap; padding-top: 3px;">
-            Learn more →
-          </div>
-        </div>
-      </div>
-    </a>
-    
-  </div>
-
-</div>
-
-<!--
-DEEP-IoT: Downlink-Enhanced Efficient-Power Internet of Things
-=====================
-
-At the heart of the Internet of Things (IoT) -- a domain witnessing explosive growth -- the imperative for energy efficiency and the extension of device lifespans has never been more pressing. In this line of research, we present DEEP-IoT, a revolutionary communication paradigm poised to redefine how IoT devices communicate. Through a pioneering "listen more, transmit less" strategy, DEEP-IoT challenges and transforms the traditional transmitter (IoT devices)-centric communication model to one where the receiver (the access point) play a pivotal role, thereby cutting down energy use and boosting device longevity. We not only conceptualize DEEP-IoT but also actualize it by integrating deep learning-enhanced feedback channel codes within a narrow-band system. Simulation results show a significant enhancement in the operational lifespan of IoT cells -- surpassing traditional systems using Turbo and Polar codes by up to 52.71%. This leap signifies a paradigm shift in IoT communications, setting the stage for a future where IoT devices boast unprecedented efficiency and durability.
-
-![](https://github.com/lynshao/Lab.github.io/blob/master/images/DEEP-IoT1.png?raw=true)
-
-![](https://github.com/lynshao/Lab.github.io/blob/master/images/DEEP-IoT2.png?raw=true)
-
-For more details about the framework, please see https://arxiv.org/abs/2403.00321.
-
-
-Semantic communications
-=====================
-
-Semantic communication is an emerging research topic that has gained a wide range of attention recently. Despite this growing interest, there remains a notable absence of a comprehensive and widely-accepted framework for characterizing semantic communication. In this line of research, we introduce a new conceptualization of semantic communication and formulates two fundamental problems, which we term "language exploitation" and "language design". Our contention is that the challenge of language design can be effectively situated within the broader framework of joint source-channel coding theory, underpinned by a comprehensive end-to-end distortion metric.
-To tackle the language exploitation problem, we put forth three approaches: semantic encoding, semantic decoding, and a synergistic combination of both in the form of combined semantic encoding and decoding. Furthermore, we establish the semantic distortion-cost region as a critical framework for assessing the language exploitation problem. For each of the three proposed approaches, the achievable distortion cost region is characterized. Overall, our goal is to shed light on the intricate dynamics of semantic communication, paving the way for a deeper understanding of this evolving field.
-
-![](https://github.com/lynshao/Lab.github.io/blob/master/images/semantic.png?raw=true)
-
-For more details about the framework, please see https://arxiv.org/pdf/2212.01485.pdf.
-
-中文介绍：https://zhuanlan.zhihu.com/p/701344123
-
-
-LLMind: Integrating Large language Model with Wireless Communication Systems
-=====================
-
-The exploration of large language models (LLMs) for task planning and IoT automation has recently gained significant attention. However, existing works suffer from limitations in terms of resource accessibility, complex task planning, and efficiency. In this line of research, we present LLMind, an LLM-based AI agent framework that enables effective collaboration among IoT devices for executing complex tasks. Inspired by the functional specialization theory of the brain, our framework integrates an LLM with domain-specific AI modules, enhancing its capabilities. Complex tasks, which may involve collaborations of multiple domain-specific AI modules and IoT devices, are executed through a control script generated by the LLM using a Language-Code transformation approach, which first converts language descriptions to an intermediate finite-state machine (FSM) before final precise transformation to code. Furthermore, the framework incorporates a novel experience accumulation mechanism to enhance response speed and effectiveness, allowing the framework to evolve and become progressively sophisticated through continuing user and machine interactions.
-
-![](https://github.com/lynshao/Lab.github.io/blob/master/images/LLMind.png?raw=true)
-
-For more details about the framework, please see https://arxiv.org/pdf/2312.09007.pdf.
-
-Demos:
-
-[![Watch the video](https://img.youtube.com/vi/3Al5qRntEEU/hqdefault.jpg)](https://youtu.be/3Al5qRntEEU)
 
 
 [![Watch the video](https://img.youtube.com/vi/aTGD8EjQ8kM/hqdefault.jpg)](https://youtu.be/aTGD8EjQ8kM)
