@@ -4,6 +4,10 @@ permalink: /research/
 author_profile: true
 ---
 
+<p style="color: #24292e; font-size: 16px; line-height: 1.7; margin: 0 0 20px 0;">
+      Communication is more than technology; it is a foundational pillar of human civilization. For decades, its evolution, from theory to the pervasive reality of 5G and WiFi, has been a triumph of science and engineering, a testament to the pioneers who built the invisible infrastructure of our modern world.
+</p>
+    
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
 
   <!-- Opening Statements -->
