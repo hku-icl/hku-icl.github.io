@@ -342,15 +342,11 @@ author_profile: true
       
       <div class="media-section">
         <div class="media-grid">
-          <div class="media-item video">
-            <div class="video-container">
-              <video id="researchVideo1" controls style="width:100%; height:100%; object-fit: contain;">
-                <source src="/images/research/video1.mp4" type="video/mp4">
-              </video>
-            </div>
+          <div class="media-item">
+            <video src="/images/research/video1.mp4" controls style="width:100%; border-radius:10px;"></video>
             <div class="media-caption">研究演示视频</div>
           </div>
-          
+                    
           <div class="media-item">
             <img src="/images/research/A2.png" alt="Research Image A2">
             <div class="media-caption"> <!-- CAPTION HERE --> </div>
