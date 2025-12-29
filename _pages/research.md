@@ -4,6 +4,11 @@ permalink: /research/
 author_profile: true
 ---
 
+
+1
+
+<video src="/images/research/video1.mp4" controls style="width:100%;"></video>
+
 <style>
   .research-intro {
     max-width: 1000px;
