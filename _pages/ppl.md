@@ -301,6 +301,25 @@ author_profile: true
       </div>
     </div>
     
+    
+    <!-- Ke Xu -->
+    <div class="team-card">
+      <div class="member-info">
+        <h3 class="member-name">Ke Xu</h3>
+        <p class="member-degree">Ph.D@The University of Hong Kong</p>
+        <p class="member-degree">M.S@Wake Forest University</p>
+        <p class="member-degree">M.S@Stevens Institute of Technology</p>
+        <p class="member-degree">B.S@Adelphi University</p>
+        <div class="member-interest">
+          <p class="interest-label">Research interests:</p>
+          <p class="interest-content">Neural ODE, GNN, recommendation, AI4Science</p>
+        </div>
+      </div>
+      <div class="member-photo">
+        <img src="/images/ppl/2026ke.jpg" alt="Ke Xu">
+      </div>
+    </div>
+    
     <!-- Yanzhe Li -->
     <div class="team-card">
       <div class="member-info">
