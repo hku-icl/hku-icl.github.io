@@ -266,6 +266,41 @@ author_profile: true
       </div>
     </div>
     
+    <!-- Xiaolong Wu -->
+    <div class="team-card">
+      <div class="member-info">
+        <h3 class="member-name">Xiaolong Wu</h3>
+        <p class="member-degree">Ph.D@The University of Hong Kong</p>
+        <p class="member-degree">M.Phil@Tongji University</p>
+        <p class="member-degree">B.E@Tongji University</p>
+        <div class="member-interest">
+          <p class="interest-label">Research interests:</p>
+          <p class="interest-content">Machine Learning, Wireless Communication</p>
+        </div>
+      </div>
+      <div class="member-photo">
+        <img src="/images/ppl/2026xiaolong.jpg" alt="Xiaolong Wu">
+      </div>
+    </div>
+    
+    
+    <!-- Zheyan Qu -->
+    <div class="team-card">
+      <div class="member-info">
+        <h3 class="member-name">Zheyan Qu</h3>
+        <p class="member-degree">Ph.D@The University of Hong Kong</p>
+        <p class="member-degree">M.Phil@Beijing University of Posts and Telecommunications</p>
+        <p class="member-degree">B.E@Beijing University of Posts and Telecommunications</p>
+        <div class="member-interest">
+          <p class="interest-label">Research interests:</p>
+          <p class="interest-content">Agent Communication, Large Language Model, IoT</p>
+        </div>
+      </div>
+      <div class="member-photo">
+        <img src="/images/ppl/2026zheyan.jpg" alt="Zheyan Qu">
+      </div>
+    </div>
+    
     <!-- Yanzhe Li -->
     <div class="team-card">
       <div class="member-info">
