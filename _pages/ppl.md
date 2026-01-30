@@ -316,7 +316,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="/images/ppl/2026ke.jpg" alt="Ke Xu">
+        <img src="/images/ppl/ke2026.jpg" alt="Ke Xu">
       </div>
     </div>
     
