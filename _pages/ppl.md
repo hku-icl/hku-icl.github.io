@@ -289,7 +289,7 @@ author_profile: true
       <div class="member-info">
         <h3 class="member-name">Zheyan Qu</h3>
         <p class="member-degree">Ph.D@The University of Hong Kong</p>
-        <p class="member-degree">M.Phil@Beijing University of Posts and Telecommunications</p>
+        <p class="member-degree">MSc@Beijing University of Posts and Telecommunications</p>
         <p class="member-degree">B.E@Beijing University of Posts and Telecommunications</p>
         <div class="member-interest">
           <p class="interest-label">Research interests:</p>
