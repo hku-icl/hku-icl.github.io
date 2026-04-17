@@ -400,7 +400,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <p style="margin: 0; color: #586069; font-size: 13px;">Rome, Italy</p>
     </div>
     <div style="text-align: center; border-top: 1px solid #f1f1f1; padding-top: 15px;">
-      <img src="/images/ICC2023.png" alt="ICC Best Paper Award" style="width: 500px; height: 400px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+      <img src="/images/ICC2023.png" alt="ICC Best Paper Award" style="width: 400px; height: 300px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
     </div>
   </div>
   
@@ -413,7 +413,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <p style="margin: 0; color: #586069; font-size: 13px;">Nanjing, China</p>
     </div>
     <div style="text-align: center; border-top: 1px solid #f1f1f1; padding-top: 15px;">
-      <img src="/images/CIE2024.png" alt="CIE Best Poster Award" style="width: 500px; height: 400px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
+      <img src="/images/CIE2024.png" alt="CIE Best Poster Award" style="width: 400px; height: 300px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
     </div>
   </div>
   
