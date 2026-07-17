@@ -174,7 +174,24 @@ author_profile: true
   <!-- PostDoc Researcher Section -->
   <h2 class="section-title">PostDoc Researcher</h2>
   <div class="team-grid">
-    
+
+    <!-- Maojun Zhang -->
+    <div class="team-card">
+      <div class="member-info">
+        <h3 class="member-name">Nuofan Mao</h3>
+        <p class="member-degree">Ph.D@Zhejiang University</p>
+        <p class="member-degree">B.S.@Zhejiang University</p>
+        <div class="member-interest">
+          <p class="interest-label">Research interests:</p>
+          <p class="interest-content">Embodied AI, Edge AI, Wireless Communication.</p>
+        </div>
+      </div>
+      <div class="member-photo">
+        <img src="/images/maojun2026.jpg" alt="Maojun Zhang">
+      </div>
+    </div>
+
+
     <!-- Nuofan Mao -->
     <div class="team-card">
       <div class="member-info">
