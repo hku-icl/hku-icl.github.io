@@ -187,7 +187,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="/images/maojun2026.jpg" alt="Maojun Zhang">
+        <img src="/images/ppl/maojun2026.jpg" alt="Maojun Zhang">
       </div>
     </div>
 
@@ -246,23 +246,6 @@ author_profile: true
       </div>
       <div class="member-photo">
         <img src="/images/jingreng.jpg" alt="Jingreng Lei">
-      </div>
-    </div>
-    
-    <!-- Zhu Qing -->
-    <div class="team-card">
-      <div class="member-info">
-        <h3 class="member-name">Zhu Qing</h3>
-        <p class="member-degree">Ph.D@The University of Hong Kong</p>
-        <p class="member-degree">MSc@Nanyang Technological University</p>
-        <p class="member-degree">B.E@Bejing University of Aeronautics and Astronautics</p>
-        <div class="member-interest">
-          <p class="interest-label">Research interests:</p>
-          <p class="interest-content">Integrated Circuit Design, Embodied AI, Wireless Communication</p>
-        </div>
-      </div>
-      <div class="member-photo">
-        <img src="/images/qingzhu.jpg" alt="Zhu Qing">
       </div>
     </div>
     
