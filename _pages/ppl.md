@@ -178,7 +178,7 @@ author_profile: true
     <!-- Maojun Zhang -->
     <div class="team-card">
       <div class="member-info">
-        <h3 class="member-name">Nuofan Mao</h3>
+        <h3 class="member-name">Maojun Zhang</h3>
         <p class="member-degree">Ph.D@Zhejiang University</p>
         <p class="member-degree">B.S.@Zhejiang University</p>
         <div class="member-interest">
