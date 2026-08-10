@@ -334,7 +334,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="/images/2027Yikun.jpg" alt="Yikun Wang">
+        <img src="/images/ppl/2027Yikun.jpg" alt="Yikun Wang">
       </div>
     </div>
     
@@ -535,7 +535,7 @@ author_profile: true
         </div>
       </div>
       <div class="member-photo">
-        <img src="/images/2026Songling.jpg" alt="Songling Gao">
+        <img src="/images/ppl/2026Songling.jpg" alt="Songling Gao">
       </div>
     </div>
     
