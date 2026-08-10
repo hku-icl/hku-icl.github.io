@@ -320,6 +320,24 @@ author_profile: true
       </div>
     </div>
     
+    
+    <!-- Yikun Wang -->
+    <div class="team-card">
+      <div class="member-info">
+        <h3 class="member-name">Yikun Wang</h3>
+        <p class="member-degree">Ph.D@The University of Hong Kong</p>
+        <p class="member-degree">M.Phil.@The University of Hong Kong</p>
+        <p class="member-degree">B.E@Beihang University</p>
+        <div class="member-interest">
+          <p class="interest-label">Research interests:</p>
+          <p class="interest-content">Machine Learning, Wireless Communication, Robotics</p>
+        </div>
+      </div>
+      <div class="member-photo">
+        <img src="/images/2027Yikun.jpg" alt="Yikun Wang">
+      </div>
+    </div>
+    
     <!-- Yanzhe Li -->
     <div class="team-card">
       <div class="member-info">
@@ -501,6 +519,23 @@ author_profile: true
       </div>
       <div class="member-photo">
         <img src="/images/menghan.jpg" alt="Menghan Li">
+      </div>
+    </div>
+
+    
+    <!-- Songling Gao -->
+    <div class="team-card">
+      <div class="member-info">
+        <h3 class="member-name">Songling Gao</h3>
+        <p class="member-degree">Ph.D@Beijing Jiaotong University</p>
+        <p class="member-degree">B.E@Beijing Jiaotong University</p>
+        <div class="member-interest">
+          <p class="interest-label">Research interests:</p>
+          <p class="interest-content">Semantic Communication, Wireless Communication, Artificial Intelligence</p>
+        </div>
+      </div>
+      <div class="member-photo">
+        <img src="/images/2026Songling.jpg" alt="Songling Gao">
       </div>
     </div>
     
