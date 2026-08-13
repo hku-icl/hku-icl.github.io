@@ -236,6 +236,22 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
     <!-- 时间线竖线 -->
     <div style="position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, #0366d6, #e1e4e8);"></div>
     
+    <!-- 服务 0 -->
+    <div style="position: relative; margin-bottom: 3px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 8px; width: 14px; height: 14px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 6px; padding: 8px 12px; box-shadow: 0 1px 4px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center; justify-content: space-between;">
+          <div style="flex-grow: 1;">
+            <div style="display: flex; align-items: center;">
+              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Committee Member</h3>
+              <p style="margin: 0; color: #0366d6; font-size: 14px; font-weight: 500;">Information Theory Society, Chinese Institute of Electronics (CIE)</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
     <!-- 服务 1 -->
     <div style="position: relative; margin-bottom: 3px; margin-left: 30px;">
       <div style="position: absolute; left: -36px; top: 8px; width: 14px; height: 14px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
@@ -244,7 +260,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
         <div style="display: flex; align-items: center; justify-content: space-between;">
           <div style="flex-grow: 1;">
             <div style="display: flex; align-items: center;">
-              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Editor</h3>
+              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Associate Editor</h3>
               <p style="margin: 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Communications Magazine</p>
             </div>
           </div>
@@ -260,7 +276,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
         <div style="display: flex; align-items: center; justify-content: space-between;">
           <div style="flex-grow: 1;">
             <div style="display: flex; align-items: center;">
-              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Editor</h3>
+              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Associate Editor</h3>
               <p style="margin: 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Transactions on Wireless Communications</p>
             </div>
           </div>
@@ -276,7 +292,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
         <div style="display: flex; align-items: center; justify-content: space-between;">
           <div style="flex-grow: 1;">
             <div style="display: flex; align-items: center;">
-              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Editor</h3>
+              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Associate Editor</h3>
               <p style="margin: 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Transactions on Communications</p>
             </div>
           </div>
@@ -292,7 +308,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
         <div style="display: flex; align-items: center; justify-content: space-between;">
           <div style="flex-grow: 1;">
             <div style="display: flex; align-items: center;">
-              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Editor</h3>
+              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Associate Editor</h3>
               <p style="margin: 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Communications Letters</p>
             </div>
           </div>
