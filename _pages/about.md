@@ -537,6 +537,17 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
   <!-- 出版物列表 -->
   <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 15px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
     
+    <!-- 出版物 0 -->
+    <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
+      <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
+      <p style="margin: 0; line-height: 1.5;">
+        <strong style="color: #24292e;">Y. Shao</strong>. 
+        <span style="color: #24292e; font-weight: 500;">Embodied Communication: Sensing-Induced Reliability Fields and Capacity Bounds</span>. 
+        <span style="color: #0366d6; font-weight: 500;">arXiv:2605.08284</span>, 
+        <strong style="color: #586069;">2026</strong>.
+      </p>
+    </div>
+    
     <!-- 出版物 1 -->
     <div style="position: relative; padding-left: 12px; margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #f6f8fa;">
       <div style="position: absolute; left: 0; top: 8px; width: 4px; height: 4px; background: #0366d6; border-radius: 50%;"></div>
