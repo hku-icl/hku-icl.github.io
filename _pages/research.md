@@ -329,14 +329,11 @@ author_profile: true
         Our first research thrust positions wireless communication as an enabling hub for tomorrow's key technologies. We design next-generation network architectures and transmission mechanisms to support cross-disciplinary applications. This includes: building efficient and reliable communication frameworks for distributed artificial intelligence; enabling real-time and stable networking for robotic swarms; developing low-latency, high-fidelity wireless links for brain-computer interfaces; and constructing large-scale sensing networks for planet-scale environmental monitoring. By deeply integrating communications with AI, robotics, and other cutting-edge fields, we help realize true digital transformation and intelligent advancement.
       </div>
       
-      <div class="research-description chinese">
-        我们的第一个主要研究方向，是让无线通信成为未来关键科技的"赋能中枢"。我们探索并设计下一代无线网络架构与传输机制，以支撑跨学科、跨领域的融合应用。包括：为分布式人工智能系统提供高效可靠的协同通信支持；为集群机器人系统实现实时、稳定的组网与控制；为脑机接口设备开发低延迟、高保真的无线传输方案；以及为实现全球尺度的高精度环境感知与监测构建大规模无线传感网络。通过通信与其他前沿科技的深度融合，我们助力多个行业实现数字化转型与智能化跨越。
-      </div>
       
       <div class="tech-tags">
+        <span class="tech-tag">Embodied AI</span>
         <span class="tech-tag">Agent Communication</span>
         <span class="tech-tag">Distributed AI</span>
-        <span class="tech-tag">AI Infrastructure</span>
         <span class="tech-tag">Robotic Swarms</span>
       </div>
       
@@ -391,9 +388,6 @@ author_profile: true
         Our second research thrust focuses on the evolution and innovation of wireless systems themselves. We aim to continuously increase data rates, approach near-zero latency, and ensure ultra-high reliability. On one hand, we enhance existing systems, such as 5G, WiFi, Bluetooth, and NB-IoT, through improved physical-layer techniques, protocol design, and network optimization. On the other, we pioneer new communication paradigms for extreme and emerging environments, including underground, underwater, space, and optical wireless communications, developing innovative solutions for connectivity where it was once thought impossible.
       </div>
       
-      <div class="research-description chinese">
-        我们的第二个主要研究方向，是无线通信系统本身的"演进与革新"。核心目标在于全面提升系统的传输速率、降低时延与抖动，并保障极高的通信可靠性。一方面，我们着力强化与完善现有通信体系，针对5G、WiFi、蓝牙、NB-IoT等主流标准与场景，研究更优的物理层技术、协议设计及网络优化方法；另一方面，我们也积极开拓面向未来的新型无线通信系统，涵盖透地通信、深海通信、深空通信以及无线光通信等极端或新兴信道环境，为解决特殊场景中的通信难题开发创新性技术。
-      </div>
       
       <div class="tech-tags">
         <span class="tech-tag">6G</span>
