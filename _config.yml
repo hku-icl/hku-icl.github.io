@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Intelligent Communication Lab"
+title                    : "Wave Intelligence Lab"
 title_separator          : "-"
-name                     : &name "Intelligent Communication Lab"
+name                     : &name "Wave Intelligence Lab"
 description              : &description "The University of Hong Kong"
 url                      : "https://hku-icl.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Intelligent Communication Lab"
+  name             : "Wave Intelligence Lab"
   avatar           : "icon.png"
   bio              : "The University of Hong Kong \ Supervisor: Yulin Shao"
   location         : "Hong Kong"
