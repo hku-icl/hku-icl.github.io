@@ -416,7 +416,7 @@ My recent research endeavors focus on: 1) exploring deep learning techniques to 
       <div style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0366d6; border-radius: 50%;"></div>
       <h3 style="margin: 0 0 8px 0; color: #24292e; font-size: 16px; font-weight: 600;">IEEE Senior Member</h3>
       <p style="margin: 0 0 5px 0; color: #0366d6; font-size: 14px; font-weight: 500;"></p>
-      <p style="margin: 0; color: #586069; font-size: 13px;">Macau, China</p>
+      <p style="margin: 0; color: #586069; font-size: 13px;"></p>
     </div>
     <!-- <div style="text-align: center; border-top: 1px solid #f1f1f1; padding-top: 15px;">
       <img src="/images/WCNC2024.png" alt="WCNC Best Paper Award" style="width: 400px; height: 300px; object-fit: contain; border-radius: 6px; margin: 0 auto;">
