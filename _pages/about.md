@@ -47,7 +47,6 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
 
 # About the Supervisor
 
-I received my B.S. and M.S. degrees (Hons.) in Communications and Information Engineering from Xidian University and my Ph.D. degree in Information Engineering from the Chinese University of Hong Kong (CUHK).
 
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 600px; margin: 0 auto;">
   
@@ -58,7 +57,7 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
       <p style="margin: 0 0 12px 0; color: #6a737d; font-size: 15px; font-weight: 500;">Assistant Professor</p>  <!-- 减小间距 -->
       
       <div style="margin-bottom: 8px;">  <!-- 减小间距 -->
-        <p style="margin: 0; font-size: 14px; color: #586069;">Department of Electrical and Electronic Engineering</p>
+        <p style="margin: 0; font-size: 14px; color: #586069;">Department of Electrical and Computer Engineering</p>
       </div>
       
       <div style="margin-bottom: 12px;">  <!-- 减小间距 -->
@@ -102,6 +101,42 @@ I received my B.S. and M.S. degrees (Hons.) in Communications and Information En
   <div style="position: relative; margin-left: 20px;">
     <!-- 时间线竖线 -->
     <div style="position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, #0366d6, #e1e4e8);"></div>
+    
+    <!-- 经历项 -2 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">B.S. & M.S.</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Xidian University</p>
+            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Communications and Information Engineering</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 经历项 -1 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Ph.D.</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">The Chinese University of Hong Kong</p>
+            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Information Engineering</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
     
     <!-- 经历项 1 -->
     <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
