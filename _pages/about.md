@@ -94,7 +94,7 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
       <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
       <circle cx="12" cy="7" r="4"></circle>
     </svg>
-    Previous Academic Positions held
+    Academic Background
   </h2>
   
   <!-- 时间线经历 -->
