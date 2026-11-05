@@ -46,249 +46,47 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
 ---
 
 # About the Supervisor
+<!-- Current Academic Appointment -->
+<div style="font-family: 'Helvetica Neue', 'Segoe UI', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 16px 20px 24px; color: #24292e;">
 
-<!-- About the Supervisor: Current Academic Appointment -->
-<style>
-  .wil-supervisor {
-    --wil-accent: #0366d6;
-    --wil-ink: #24292e;
-    --wil-muted: #586069;
-    --wil-rule: #e5ebf1;
-    box-sizing: border-box;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 28px 20px 24px;
-    font-family: 'Helvetica Neue', 'Segoe UI', Arial, sans-serif;
-    color: var(--wil-ink);
-  }
+  <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 24px;">
 
-  .wil-supervisor *,
-  .wil-supervisor *::before,
-  .wil-supervisor *::after {
-    box-sizing: border-box;
-  }
+    <!-- Academic Information -->
+    <div style="flex: 1 1 420px; min-width: 0;">
 
-  .wil-supervisor__top {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 112px;
-    align-items: center;
-    column-gap: 34px;
-  }
-
-  .wil-supervisor__eyebrow {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    margin: 0 0 15px;
-    color: var(--wil-accent);
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: 0.15em;
-    line-height: 1.4;
-    text-transform: uppercase;
-  }
-
-  .wil-supervisor__eyebrow::before {
-    content: '';
-    width: 25px;
-    height: 2px;
-    background: currentColor;
-    flex: none;
-  }
-
-  .wil-supervisor__name {
-    margin: 0 0 7px;
-    color: var(--wil-ink);
-    font-size: clamp(28px, 4.8vw, 35px);
-    font-weight: 650;
-    line-height: 1.18;
-    letter-spacing: -0.035em;
-    border: 0;
-  }
-
-  .wil-supervisor__position {
-    margin: 0;
-    color: #364152;
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 1.5;
-  }
-
-  .wil-supervisor__logo {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    align-self: stretch;
-    padding-left: 24px;
-    border-left: 1px solid var(--wil-rule);
-  }
-
-  .wil-supervisor__logo img {
-    display: block;
-    max-width: 90px;
-    max-height: 100px;
-    width: 100%;
-    height: auto;
-    object-fit: contain;
-  }
-
-  .wil-supervisor__details {
-    display: flex;
-    align-items: end;
-    justify-content: space-between;
-    gap: 20px 28px;
-    margin-top: 25px;
-    padding-top: 18px;
-    border-top: 1px solid var(--wil-rule);
-  }
-
-  .wil-supervisor__university {
-    margin: 0 0 3px;
-    color: var(--wil-ink);
-    font-size: 15.5px;
-    line-height: 1.5;
-    font-weight: 600;
-  }
-
-  .wil-supervisor__department {
-    margin: 0;
-    color: var(--wil-muted);
-    font-size: 14px;
-    line-height: 1.55;
-  }
-
-  .wil-supervisor__email {
-    display: inline-flex;
-    align-items: center;
-    flex-shrink: 0;
-    gap: 8px;
-    padding-bottom: 2px;
-    border-bottom: 1px solid transparent;
-    color: var(--wil-accent);
-    font-size: 14.5px;
-    font-weight: 500;
-    line-height: 1.5;
-    text-decoration: none;
-    transition: border-color .18s ease, color .18s ease;
-  }
-
-  .wil-supervisor__email:hover,
-  .wil-supervisor__email:focus-visible {
-    color: #024ea5;
-    border-bottom-color: currentColor;
-  }
-
-  .wil-supervisor__email svg {
-    display: block;
-    width: 17px;
-    height: 17px;
-    flex: none;
-  }
-
-  @media (max-width: 600px) {
-    .wil-supervisor {
-      padding: 22px 12px 20px;
-    }
-
-    .wil-supervisor__top {
-      grid-template-columns: minmax(0, 1fr) 74px;
-      column-gap: 16px;
-    }
-
-    .wil-supervisor__logo {
-      padding-left: 12px;
-    }
-
-    .wil-supervisor__logo img {
-      max-width: 60px;
-      max-height: 76px;
-    }
-
-    .wil-supervisor__name {
-      font-size: clamp(25px, 6vw, 31px);
-    }
-
-    .wil-supervisor__position {
-      font-size: 16.5px;
-    }
-
-    .wil-supervisor__details {
-      display: block;
-      margin-top: 22px;
-      padding-top: 16px;
-    }
-
-    .wil-supervisor__email {
-      margin-top: 14px;
-    }
-  }
-</style>
-
-<section class="wil-supervisor" aria-label="Current academic appointment">
-
-  <div class="wil-supervisor__top">
-
-    <div>
-      <p class="wil-supervisor__eyebrow">
-        Current Appointment
-      </p>
-
-      <h2 class="wil-supervisor__name">
+      <h2 style="margin: 0 0 7px; font-size: 26px; line-height: 1.25; font-weight: 600; letter-spacing: -0.02em; color: #24292e;">
         Dr. Yulin Shao
       </h2>
 
-      <p class="wil-supervisor__position">
+      <p style="margin: 0 0 16px; font-size: 17px; line-height: 1.5; font-weight: 500; color: #24292e;">
         Assistant Professor
       </p>
-    </div>
 
-    <div class="wil-supervisor__logo">
-      <img
-        src="/images/HKUicon.png"
-        alt="The University of Hong Kong logo"
-      >
-    </div>
+      <p style="margin: 0 0 4px; font-size: 15px; line-height: 1.6; color: #586069;">
+        Department of Electrical and Electronic Engineering
+      </p>
 
-  </div>
-
-  <div class="wil-supervisor__details">
-
-    <div>
-      <p class="wil-supervisor__university">
+      <p style="margin: 0 0 14px; font-size: 15px; line-height: 1.6; color: #586069;">
         The University of Hong Kong
       </p>
 
-      <p class="wil-supervisor__department">
-        Department of Electrical and Electronic Engineering
+      <p style="margin: 0; font-size: 15px; line-height: 1.6;">
+        <a href="mailto:ylshao@hku.hk" style="color: #0366d6; text-decoration: none;">
+          ylshao@hku.hk
+        </a>
       </p>
+
     </div>
 
-    <a
-      class="wil-supervisor__email"
-      href="mailto:ylshao@hku.hk"
-      aria-label="Email Yulin Shao"
-    >
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="1.6"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        aria-hidden="true"
-      >
-        <rect x="3" y="5" width="18" height="14" rx="2"></rect>
-        <path d="m3 7 9 6 9-6"></path>
-      </svg>
-
-      <span>ylshao@hku.hk</span>
-    </a>
+    <!-- University Logo -->
+    <div style="flex: 0 0 84px; margin-left: auto;">
+      <img src="/images/HKUicon.png"
+           alt="The University of Hong Kong logo"
+           style="display: block; width: 84px; max-width: 100%; height: auto; object-fit: contain;">
+    </div>
 
   </div>
-
-</section>
-
+</div>
 
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
   
