@@ -48,6 +48,217 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
 # About the Supervisor
 
 
+<style>
+  .wil-profile {
+    font-family: 'Helvetica Neue', 'Segoe UI', Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #24292e;
+    line-height: 1.6;
+  }
+
+  /* Current position: clean layout without a card */
+  .wil-profile-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    padding: 5px 0 30px;
+  }
+
+  .wil-profile-name {
+    font-size: 25px;
+    font-weight: 600;
+    margin: 0 0 7px;
+    color: #24292e;
+  }
+
+  .wil-profile-position {
+    font-size: 17px;
+    font-weight: 600;
+    color: #0366d6;
+    margin: 0 0 7px;
+  }
+
+  .wil-profile-affiliation {
+    font-size: 15px;
+    color: #586069;
+    margin: 0;
+    line-height: 1.7;
+  }
+
+  .wil-profile-email {
+    display: inline-block;
+    margin-top: 12px;
+    font-size: 14px;
+    color: #0366d6;
+    text-decoration: none;
+  }
+
+  .wil-profile-email:hover {
+    text-decoration: underline;
+  }
+
+  .wil-profile-logo {
+    width: 90px;
+    max-width: 22%;
+    height: auto;
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+
+  /* Experience heading */
+  .wil-experience-heading {
+    font-size: 24px;
+    font-weight: 600;
+    color: #24292e;
+    margin: 28px 0 28px;
+    padding-bottom: 12px;
+    border-bottom: 3px solid #0366d6;
+  }
+
+  /* Timeline */
+  .wil-timeline {
+    list-style: none;
+    margin: 0 0 0 9px;
+    padding: 0 0 0 30px;
+    border-left: 2px solid #dce6f4;
+  }
+
+  .wil-timeline-item {
+    position: relative;
+    margin: 0 0 22px;
+    padding: 0 0 17px;
+    border-bottom: 1px solid #eef0f3;
+  }
+
+  .wil-timeline-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  .wil-timeline-item::before {
+    content: "";
+    position: absolute;
+    left: -38px;
+    top: 7px;
+    width: 12px;
+    height: 12px;
+    background: white;
+    border: 3px solid #0366d6;
+    border-radius: 50%;
+    box-sizing: border-box;
+  }
+
+  .wil-experience-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+
+  .wil-experience-info {
+    min-width: 0;
+    flex: 1;
+  }
+
+  .wil-experience-role {
+    font-size: 16px;
+    font-weight: 600;
+    color: #24292e;
+    margin: 0 0 4px;
+    line-height: 1.4;
+  }
+
+  .wil-experience-institution {
+    font-size: 14px;
+    font-weight: 500;
+    color: #0366d6;
+    margin: 0 0 3px;
+  }
+
+  .wil-experience-detail {
+    font-size: 13px;
+    color: #586069;
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  .wil-experience-logo {
+    width: 54px;
+    height: 54px;
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+
+  /* Education entries: deliberately understated */
+  .wil-education .wil-experience-institution {
+    color: #586069;
+  }
+
+  .wil-education::before {
+    border-color: #9aa9bb;
+  }
+
+  @media (max-width: 600px) {
+    .wil-profile {
+      padding: 15px 5px;
+    }
+
+    .wil-profile-name {
+      font-size: 23px;
+    }
+
+    .wil-profile-logo {
+      width: 65px;
+    }
+
+    .wil-experience-logo {
+      width: 43px;
+      height: 43px;
+    }
+
+    .wil-experience-row {
+      gap: 12px;
+    }
+  }
+</style>
+
+<div class="wil-profile">
+
+  <!-- Current Academic Position -->
+  <div class="wil-profile-header">
+
+    <div>
+      <h2 class="wil-profile-name">Dr. Yulin Shao</h2>
+
+      <p class="wil-profile-position">
+        Assistant Professor
+      </p>
+
+      <p class="wil-profile-affiliation">
+        Department of Electrical and Electronic Engineering
+      </p>
+
+      <p class="wil-profile-affiliation">
+        The University of Hong Kong
+      </p>
+
+      <a class="wil-profile-email" href="mailto:ylshao@hku.hk">
+        ylshao@hku.hk
+      </a>
+    </div>
+
+    <img
+      class="wil-profile-logo"
+      src="/images/HKUicon.png"
+      alt="The University of Hong Kong Logo"
+    >
+
+  </div>
+</div>
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 600px; margin: 0 auto;">
   
 <table style="width: 100%; border: 1px solid #d1d5da; border-radius: 6px; border-collapse: separate; border-spacing: 0; background: white;">
