@@ -137,20 +137,77 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
         </div>
       </div>
     </div>
+
     
-    <!-- 经历项 1 -->
+    
+    <!-- 经历项 6 -->
     <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
       <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
       
       <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
         <div style="display: flex; align-items: center;">
           <div style="flex-grow: 1;">
-            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Visiting Researcher</h3>
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Research Assistant</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Institute of Network Coding</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="/images/INClogo.png" alt="Institute of Network Coding Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 经历项 5 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Visiting Scholar</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Massachusetts Institute of Technology</p>
+            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Claude E. Shannon Communication and Network Group</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="/images/MITlogo.png" alt="MIT Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+    <!-- 经历项 4 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Research Associate</h3>
             <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Imperial College London</p>
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
             <img src="/images/Imperiallogo.png" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+    <!-- 经历项 3 -->
+    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
+      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
+      
+      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
+        <div style="display: flex; align-items: center;">
+          <div style="flex-grow: 1;">
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Lecturer (AP) in Information Processing</h3>
+            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">University of Exeter</p>
+            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Engineering</p>
+          </div>
+          <div style="flex-shrink: 0; margin-left: 15px;">
+            <img src="/images/Exeterlogo.png" alt="Exeter University Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -173,33 +230,16 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
         </div>
       </div>
     </div>
+
     
-    <!-- 经历项 3 -->
+    <!-- 经历项 1 -->
     <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
       <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
       
       <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
         <div style="display: flex; align-items: center;">
           <div style="flex-grow: 1;">
-            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Lecturer (AP) in Information Processing</h3>
-            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">University of Exeter</p>
-            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Engineering</p>
-          </div>
-          <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="/images/Exeterlogo.png" alt="Exeter University Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <!-- 经历项 4 -->
-    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
-      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
-      
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
-        <div style="display: flex; align-items: center;">
-          <div style="flex-grow: 1;">
-            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Research Associate</h3>
+            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Visiting Researcher</h3>
             <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Imperial College London</p>
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Department of Electrical and Electronic Engineering</p>
           </div>
@@ -209,44 +249,11 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
         </div>
       </div>
     </div>
-    
-    <!-- 经历项 5 -->
-    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
-      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
-      
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
-        <div style="display: flex; align-items: center;">
-          <div style="flex-grow: 1;">
-            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Visiting Scholar</h3>
-            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Massachusetts Institute of Technology</p>
-            <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Claude E. Shannon Communication and Network Group</p>
-          </div>
-          <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="/images/MITlogo.png" alt="MIT Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <!-- 经历项 6 -->
-    <div style="position: relative; margin-bottom: 5px; margin-left: 30px;">
-      <div style="position: absolute; left: -36px; top: 15px; width: 18px; height: 18px; background: white; border: 3px solid #0366d6; border-radius: 50%; z-index: 2;"></div>
-      
-      <div style="background: white; border: 1px solid #e1e4e8; border-radius: 8px; padding: 12px 15px; box-shadow: 0 2px 6px rgba(0,0,0,0.04);">
-        <div style="display: flex; align-items: center;">
-          <div style="flex-grow: 1;">
-            <h3 style="margin: 0 0 5px 0; color: #24292e; font-size: 16px; font-weight: 600;">Research Assistant</h3>
-            <p style="margin: 0 0 3px 0; color: #0366d6; font-size: 14px; font-weight: 500;">Institute of Network Coding</p>
-          </div>
-          <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="/images/INClogo.png" alt="Institute of Network Coding Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
-          </div>
-        </div>
-      </div>
-    </div>
+
     
   </div>
 </div>
+  
 
 
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
