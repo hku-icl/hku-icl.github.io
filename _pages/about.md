@@ -89,43 +89,6 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
   </div>
 </div>
 
-<!-- <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 600px; margin: 0 auto;">
-  
-<table style="width: 100%; border: 1px solid #d1d5da; border-radius: 6px; border-collapse: separate; border-spacing: 0; background: white;">
-  <tr style="border-bottom: 1px solid #d1d5da;">
-    <td style="padding: 12px 20px; width: 70%;">  <!-- 修改这里：上下padding改为12px -->
-      <h2 style="margin: 0 0 6px 0; color: #24292e; font-size: 20px; font-weight: 600;">Dr. Yulin Shao</h2>  <!-- 减小字体和间距 -->
-      <p style="margin: 0 0 12px 0; color: #6a737d; font-size: 15px; font-weight: 500;">Assistant Professor</p>  <!-- 减小间距 -->
-      
-      <div style="margin-bottom: 8px;">  <!-- 减小间距 -->
-        <p style="margin: 0; font-size: 14px; color: #586069;">Department of Electrical and Computer Engineering</p>
-      </div>
-      
-      <div style="margin-bottom: 12px;">  <!-- 减小间距 -->
-        <p style="margin: 0; font-size: 14px; color: #586069;">The University of Hong Kong</p>
-      </div>
-      
-      <div style="display: flex; align-items: center;">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#586069" style="margin-right: 8px;">
-          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
-          <polyline points="22,6 12,13 2,6"></polyline>
-        </svg>
-        <a href="mailto:ylshao@hku.hk" style="color: #0366d6; text-decoration: none; font-size: 14px; font-weight: 500;">ylshao@hku.hk</a>
-      </div>
-    </td>
-    
-    <td style="padding: 12px 20px; text-align: center; background-color: #f6f8fa; border-left: 1px solid #d1d5da;">  <!-- 修改这里 -->
-      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
-        <div style="width: 80px; height: 80px; background: white; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin-bottom: 8px; border: 1px solid #e1e4e8;">  <!-- 缩小图片容器 -->
-          <img src="/images/HKUicon.png" alt="HKU Logo" style="max-width: 100px;">  <!-- 调整图片大小 -->
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div> -->
-
 
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
   
