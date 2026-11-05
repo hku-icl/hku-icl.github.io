@@ -114,7 +114,7 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Communications and Information Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="/images/xidian.jepg" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="/images/xidian.jpg" alt="xidian Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
@@ -132,7 +132,7 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
             <p style="margin: 0; color: #586069; font-size: 13px; line-height: 1.4;">Information Engineering</p>
           </div>
           <div style="flex-shrink: 0; margin-left: 15px;">
-            <img src="/images/CUHK.png" alt="Imperial College Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
+            <img src="/images/CUHK.png" alt="CUHK Logo" style="width: 60px; height: 60px; border-radius: 6px; object-fit: contain; border: 1px solid #eaecef; padding: 2px; background: white;">
           </div>
         </div>
       </div>
