@@ -15,28 +15,22 @@ redirect_from:
   <!-- 英文段落1 -->
   <div style="margin-bottom: 22px;">
     <p style="margin: 0; font-size: 16.5px; letter-spacing: 0.01em; color: #24292e; font-weight: 400;">
-      Wireless communication is the bedrock of modern civilization. From mobile connectivity to the Internet of Everything, every leap in communication technology has profoundly reshaped how societies collaborate and how knowledge flows. For decades, the evolution of wireless communication has been a story of relentless innovation. It is not only the underlying infrastructure of our digital world but also the core engine powering scientific discovery and industrial transformation.
-    </p>
-  </div>
-
-  <!-- 中文段落1 -->
-  <div style="margin-bottom: 22px; font-family: 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;">
-    <p style="margin: 0; font-size: 16px; color: #2c3e50; line-height: 1.7; text-align: justify;">
-      <!--无线通信是塑造人类文明的隐形脉搏。从古时的烽火传信到今天的万物智联，通信技术的每一次跃迁都深刻改变了社会协作与知识流动的方式。香农的信息论奠定了数字时代的基石，而数十年来无线通信的演进史，正是一部人类不断突破时空限制、追求更高效连接的文明进化史。它不仅是技术基础设施，更是承载全球对话、驱动科学发现与产业革命的无形引擎。-->
+The physical world leaves its signature on waves. As waves propagate and interact with their surroundings, they reveal the structure and dynamics of the environment while carrying information across space. This makes waves a fundamental interface between intelligence and the physical world.
     </p>
   </div>
 
   <!-- 英文段落2 -->
   <div style="margin-bottom: 22px;">
-    <p style="margin: 0; font-size: 16.5px; letter-spacing: 0.01em; color: #24292e; font-weight: 400;">
-      At the Intelligent Communications Laboratory, we work at the frontier of communication science, committed to redefining what wireless systems can achieve. We believe that true breakthroughs come from deep understanding of fundamental principles and the courage to reimagine them. Our mission is to build wireless networks that are more intelligent, efficient, and reliable, laying a solid and advanced foundation for the rapidly evolving digital future.
+    <p style="margin: 0; font-size: 16.5px; letter-spacing: 0.01em; color: #24292e; font-weight: 400;">  
+At the **Wave Intelligence Lab**, we explore the deep interplay between waves and intelligence. We develop intelligent methods to understand, model, and engineer wave phenomena, while harnessing waves to extend how intelligent systems perceive, learn about, and interact with the world. By bringing together wave physics, AI, signal processing, and information theory, we seek to uncover fundamental principles and develop technologies that connect intelligence with physical reality.
     </p>
   </div>
 
-  <!-- 中文段落2 -->
-  <div style="margin-bottom: 22px; font-family: 'PingFang SC', 'Microsoft YaHei', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;">
-    <p style="margin: 0; font-size: 16px; color: #2c3e50; line-height: 1.7; text-align: justify;">
-      <!--在智能通信实验室，我们追随通信先驱的智慧足迹，站在巨人的肩膀上仰望下一个通信范式。我们相信，真正革命性的突破源于对通信基础原理的深刻理解与再想象。我们的使命是重新定义无线系统的极限，将其打造得更智能、更高效、更可靠，从而为上层飞速进化的数字世界提供无可撼动的基石。-->
+
+  <!-- 英文段落2 -->
+  <div style="margin-bottom: 22px;">
+    <p style="margin: 0; font-size: 16.5px; letter-spacing: 0.01em; color: #24292e; font-weight: 400;">
+ Our vision is a world where intelligence is deeply grounded in physical reality, empowered by waves to understand its surroundings, interact with its environment, and act upon what it learns.
     </p>
   </div>
 
