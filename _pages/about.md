@@ -22,7 +22,7 @@ The physical world leaves its signature on waves. As waves propagate and interac
   <!-- 英文段落2 -->
   <div style="margin-bottom: 22px;">
     <p style="margin: 0; font-size: 16.5px; letter-spacing: 0.01em; color: #24292e; font-weight: 400;">  
-At the **Wave Intelligence Lab**, we explore the deep interplay between waves and intelligence. We develop intelligent methods to understand, model, and engineer wave phenomena, while harnessing waves to extend how intelligent systems perceive, learn about, and interact with the world. By bringing together wave physics, AI, signal processing, and information theory, we seek to uncover fundamental principles and develop technologies that connect intelligence with physical reality.
+At the Wave Intelligence Lab, we explore the deep interplay between waves and intelligence. We develop intelligent methods to understand, model, and engineer wave phenomena, while harnessing waves to extend how intelligent systems perceive, learn about, and interact with the world. By bringing together wave physics, AI, signal processing, and information theory, we seek to uncover fundamental principles and develop technologies that connect intelligence with physical reality.
     </p>
   </div>
 
