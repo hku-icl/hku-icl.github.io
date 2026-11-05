@@ -89,7 +89,7 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
   </div>
 </div>
 
-<div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 600px; margin: 0 auto;">
+<!-- <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 600px; margin: 0 auto;">
   
 <table style="width: 100%; border: 1px solid #d1d5da; border-radius: 6px; border-collapse: separate; border-spacing: 0; background: white;">
   <tr style="border-bottom: 1px solid #d1d5da;">
@@ -124,7 +124,7 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
   </tr>
 </table>
 
-</div>
+</div> -->
 
 
 <div style="font-family: 'Helvetica Neue', Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px;">
