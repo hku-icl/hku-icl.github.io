@@ -410,7 +410,7 @@ At the Wave Intelligence Lab, we explore the deep interplay between waves and in
         <div style="display: flex; align-items: center; justify-content: space-between;">
           <div style="flex-grow: 1;">
             <div style="display: flex; align-items: center;">
-              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Invited Speaker</h3>
+              <h3 style="margin: 0; color: #24292e; font-size: 15px; font-weight: 600; margin-right: 10px;">Guest Lecturer</h3>
               <p style="margin: 0; color: #0366d6; font-size: 14px; font-weight: 500;">IEEE Information Theory Society Bangalore Chapter</p>
             </div>
           </div>
